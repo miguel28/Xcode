@@ -1,0 +1,297 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* FrissbeePhoneAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1420, 689}}";
+			sepNavSelRange = "{298, 0}";
+			sepNavVisRange = "{0, 499}";
+			sepNavWindowFrame = "{{15, 80}, {988, 973}}";
+		};
+	};
+	1D3623250D0F684500981E51 /* FrissbeePhoneAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1965, 1157}}";
+			sepNavSelRange = "{1257, 0}";
+			sepNavVisRange = "{0, 1920}";
+			sepNavWindowFrame = "{{15, 80}, {988, 973}}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* FrissbeePhone */ = {
+		activeExec = 0;
+		executables = (
+			2413CB0E13EC8FA7000E337E /* FrissbeePhone */,
+		);
+	};
+	2413CB0E13EC8FA7000E337E /* FrissbeePhone */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = FrissbeePhone;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	2413CB1D13EC8FAD000E337E /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	2413CB1E13EC8FAD000E337E /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	2413CB4C13ECAFD5000E337E /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 2413CB2113EC9F48000E337E /* enemyball.png */;
+	};
+	2413CB4D13ECAFD5000E337E /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 2413CB2213EC9F48000E337E /* playerball.png */;
+	};
+	2413CB4E13ECAFD5000E337E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2413CB4F13ECAFD5000E337E /* Tutorial_1ViewController.m */;
+		name = "Tutorial_1ViewController.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 707;
+		vrLoc = 135;
+	};
+	2413CB4F13ECAFD5000E337E /* Tutorial_1ViewController.m */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.objc;
+		name = Tutorial_1ViewController.m;
+		path = "/Users/miguelsilva/Desktop/Proyectos/Tutorial 1/Classes/Tutorial_1ViewController.m";
+		sourceTree = "<absolute>";
+	};
+	2413CB5013ECAFD5000E337E /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* FrissbeePhone-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/miguelsilva/Desktop/Proyectos/FrissbeePhone/FrissbeePhone-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	2413CB5113ECAFD5000E337E /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 2413CB3813ECA99D000E337E /* madoka-10-003.jpg */;
+	};
+	2413CB5213ECAFD5000E337E /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 2413CB5313ECAFD5000E337E /* Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			CFBundleIconFile,
+		);
+		name = /Applications/Utilities/XQuartz.app/Contents/Info.plist;
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	2413CB5313ECAFD5000E337E /* Info.plist */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = text.plist.xml;
+		name = Info.plist;
+		path = /Applications/Utilities/XQuartz.app/Contents/Info.plist;
+		sourceTree = "<absolute>";
+	};
+	2413CB7E13ECB37D000E337E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 32CA4F630368D1EE00C91783 /* FrissbeePhone_Prefix.pch */;
+		name = "FrissbeePhone_Prefix.pch: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 195;
+		vrLoc = 0;
+	};
+	2413CB7F13ECB37D000E337E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 29B97316FDCFA39411CA2CEA /* main.m */;
+		name = "main.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 351;
+		vrLoc = 0;
+	};
+	2413CB8013ECB37D000E337E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* FrissbeePhoneViewController.m */;
+		name = "FrissbeePhoneViewController.m: 18";
+		rLen = 0;
+		rLoc = 327;
+		rType = 0;
+		vrLen = 1330;
+		vrLoc = 0;
+	};
+	2413CB8113ECB37D000E337E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* FrissbeePhoneViewController.h */;
+		name = "FrissbeePhoneViewController.h: 21";
+		rLen = 0;
+		rLoc = 409;
+		rType = 0;
+		vrLen = 505;
+		vrLoc = 0;
+	};
+	2413CB8213ECB37D000E337E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* FrissbeePhoneAppDelegate.m */;
+		name = "FrissbeePhoneAppDelegate.m: 38";
+		rLen = 0;
+		rLoc = 1257;
+		rType = 0;
+		vrLen = 1920;
+		vrLoc = 0;
+	};
+	246DAE6114B1387500E67FFE /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* FrissbeePhoneAppDelegate.h */;
+		name = "FrissbeePhoneAppDelegate.h: 14";
+		rLen = 0;
+		rLoc = 298;
+		rType = 0;
+		vrLen = 499;
+		vrLoc = 0;
+	};
+	246DAE6214B1387500E67FFE /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* FrissbeePhoneAppDelegate.h */;
+		name = "FrissbeePhoneAppDelegate.h: 14";
+		rLen = 0;
+		rLoc = 298;
+		rType = 0;
+		vrLen = 499;
+		vrLoc = 0;
+	};
+	28D7ACF60DDB3853001CB0EB /* FrissbeePhoneViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1420, 693}}";
+			sepNavSelRange = "{409, 0}";
+			sepNavVisRange = "{0, 505}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* FrissbeePhoneViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1643, 1001}}";
+			sepNavSelRange = "{327, 0}";
+			sepNavVisRange = "{0, 1330}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Release;
+		activeExecutable = 2413CB0E13EC8FA7000E337E /* FrissbeePhone */;
+		activeSDKPreference = iphoneos4.3;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* FrissbeePhone */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* FrissbeePhone */,
+		);
+		codeSenseManager = 2413CB1E13EC8FAD000E337E /* Code sense */;
+		executables = (
+			2413CB0E13EC8FA7000E337E /* FrissbeePhone */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					1242,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXSymbolsDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXSymbolsDataSource_SymbolNameID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					16,
+					200,
+					50,
+					1182,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXSymbolsDataSource_SymbolTypeIconID,
+					PBXSymbolsDataSource_SymbolNameID,
+					PBXSymbolsDataSource_SymbolTypeID,
+					PBXSymbolsDataSource_ReferenceNameID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 347158400;
+			PBXWorkspaceStateSaveDate = 347158400;
+		};
+		perUserProjectItems = {
+			2413CB4C13ECAFD5000E337E /* PBXBookmark */ = 2413CB4C13ECAFD5000E337E /* PBXBookmark */;
+			2413CB4D13ECAFD5000E337E /* PBXBookmark */ = 2413CB4D13ECAFD5000E337E /* PBXBookmark */;
+			2413CB4E13ECAFD5000E337E /* PBXTextBookmark */ = 2413CB4E13ECAFD5000E337E /* PBXTextBookmark */;
+			2413CB5013ECAFD5000E337E /* PlistBookmark */ = 2413CB5013ECAFD5000E337E /* PlistBookmark */;
+			2413CB5113ECAFD5000E337E /* PBXBookmark */ = 2413CB5113ECAFD5000E337E /* PBXBookmark */;
+			2413CB5213ECAFD5000E337E /* PlistBookmark */ = 2413CB5213ECAFD5000E337E /* PlistBookmark */;
+			2413CB7E13ECB37D000E337E /* PBXTextBookmark */ = 2413CB7E13ECB37D000E337E /* PBXTextBookmark */;
+			2413CB7F13ECB37D000E337E /* PBXTextBookmark */ = 2413CB7F13ECB37D000E337E /* PBXTextBookmark */;
+			2413CB8013ECB37D000E337E /* PBXTextBookmark */ = 2413CB8013ECB37D000E337E /* PBXTextBookmark */;
+			2413CB8113ECB37D000E337E /* PBXTextBookmark */ = 2413CB8113ECB37D000E337E /* PBXTextBookmark */;
+			2413CB8213ECB37D000E337E /* PBXTextBookmark */ = 2413CB8213ECB37D000E337E /* PBXTextBookmark */;
+			246DAE6114B1387500E67FFE /* PBXTextBookmark */ = 246DAE6114B1387500E67FFE /* PBXTextBookmark */;
+			246DAE6214B1387500E67FFE /* PBXTextBookmark */ = 246DAE6214B1387500E67FFE /* PBXTextBookmark */;
+		};
+		sourceControlManager = 2413CB1D13EC8FAD000E337E /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	29B97316FDCFA39411CA2CEA /* main.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1420, 693}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 351}";
+		};
+	};
+	32CA4F630368D1EE00C91783 /* FrissbeePhone_Prefix.pch */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1420, 693}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 195}";
+		};
+	};
+}

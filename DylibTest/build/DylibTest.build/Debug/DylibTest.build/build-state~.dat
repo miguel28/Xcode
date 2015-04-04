@@ -1,0 +1,65 @@
+TDylibTest
+v7
+r0
+t393306820.726370
+cCheck dependencies
+cCompileC build/DylibTest.build/Debug/DylibTest.build/Objects-normal/x86_64/libtest.o /Users/mike/Desktop/Proyectos/Xcode/DylibTest/libtest.c normal x86_64 c com.apple.compilers.gcc.4_2
+
+N/Users/mike/Desktop/Proyectos/Xcode/DylibTest/build/Debug/libDylibTest.dylib
+t2
+s0
+
+N/Users/mike/Desktop/Proyectos/Xcode/DylibTest/build/DylibTest.build/Debug/DylibTest.build/Objects-normal/x86_64/DylibTest.LinkFileList
+c0000000051C12B44000000000000007A
+t1371614020
+s122
+
+N/Users/mike/Desktop/Proyectos/Xcode/DylibTest/build/DylibTest.build/Debug/DylibTest.build/Objects-normal/x86_64/libtest.o
+t2
+s0
+
+N/Users/mike/Desktop/Proyectos/Xcode/DylibTest/libtest.c
+c0000000051C12B44000000000000019A
+t1371614020
+s410
+i"libtest.h"
+
+N/Users/mike/Desktop/Proyectos/Xcode/DylibTest/libtest.h
+c0000000051C12B440000000000000154
+t1371614020
+s340
+i<stdio.h>
+
+N/Volumes/SnowLeopardHDD/Developer/SDKs/MacOSX10.6.sdk
+c000000004D5A274300000000000000EE
+t1297753923
+s238
+
+N/Volumes/SnowLeopardHDD/Developer/SDKs/MacOSX10.6.sdk/usr/include/stdio.h
+c000000004BBD2CE90000000000004174
+t1270689001
+s16756
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies393306820#393306820#0(0"0(0#1#0"17251534592#0"0#
+
+CCompileC build/DylibTest.build/Debug/DylibTest.build/Objects-normal/x86_64/libtest.o /Users/mike/Desktop/Proyectos/Xcode/DylibTest/libtest.c normal x86_64 c com.apple.compilers.gcc.4_2
+s393306820.557785
+e393306820.726302
+r0
+xCompileC
+xbuild/DylibTest.build/Debug/DylibTest.build/Objects-normal/x86_64/libtest.o
+x/Users/mike/Desktop/Proyectos/Xcode/DylibTest/libtest.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.gcc.4_2
+o/Users/mike/Desktop/Proyectos/Xcode/DylibTest/libtest.c: In function 'StructUse':
+o/Users/mike/Desktop/Proyectos/Xcode/DylibTest/libtest.c:29: error: 'TestType' has no member named 'value'
+o/Users/mike/Desktop/Proyectos/Xcode/DylibTest/libtest.c:30: warning: control reaches end of non-void function
+lSLF07#2@63"Compile /Users/mike/Desktop/Proyectos/Xcode/DylibTest/libtest.c393306820#393306820#0(298"/Users/mike/Desktop/Proyectos/Xcode/DylibTest/libtest.c: In function 'StructUse':/Users/mike/Desktop/Proyectos/Xcode/DylibTest/libtest.c:29: error: 'TestType' has no member named 'value'/Users/mike/Desktop/Proyectos/Xcode/DylibTest/libtest.c:30: warning: control reaches end of non-void function2(4@38"'TestType' has no member named 'value'393306820#82#106#0(6@55"/Users/mike/Desktop/Proyectos/Xcode/DylibTest/libtest.c393306820#29#0#29#0#27"'*' has no member named '*'0(22@40"Control reaches end of non-void function393306820#188#110#0(6@55"/Users/mike/Desktop/Proyectos/Xcode/DylibTest/libtest.c393306820#30#0#30#0#40"control reaches end of non-void function0(0#0#55"/Users/mike/Desktop/Proyectos/Xcode/DylibTest/libtest.c17251578624#1435"    cd /Users/mike/Desktop/Proyectos/Xcode/DylibTest    setenv LANG en_US.US-ASCII    /Volumes/SnowLeopardHDD/Developer/usr/bin/gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Volumes/SnowLeopardHDD/Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/mike/Desktop/Proyectos/Xcode/DylibTest/build/DylibTest.build/Debug/DylibTest.build/DylibTest-generated-files.hmap -I/Users/mike/Desktop/Proyectos/Xcode/DylibTest/build/DylibTest.build/Debug/DylibTest.build/DylibTest-own-target-headers.hmap -I/Users/mike/Desktop/Proyectos/Xcode/DylibTest/build/DylibTest.build/Debug/DylibTest.build/DylibTest-all-target-headers.hmap -iquote /Users/mike/Desktop/Proyectos/Xcode/DylibTest/build/DylibTest.build/Debug/DylibTest.build/DylibTest-project-headers.hmap -F/Users/mike/Desktop/Proyectos/Xcode/DylibTest/build/Debug -I/Users/mike/Desktop/Proyectos/Xcode/DylibTest/build/Debug/include -I/Users/mike/Desktop/Proyectos/Xcode/DylibTest/build/DylibTest.build/Debug/DylibTest.build/DerivedSources/x86_64 -I/Users/mike/Desktop/Proyectos/Xcode/DylibTest/build/DylibTest.build/Debug/DylibTest.build/DerivedSources -c /Users/mike/Desktop/Proyectos/Xcode/DylibTest/libtest.c -o /Users/mike/Desktop/Proyectos/Xcode/DylibTest/build/DylibTest.build/Debug/DylibTest.build/Objects-normal/x86_64/libtest.o1#
+
+CLd /Users/mike/Desktop/Proyectos/Xcode/DylibTest/build/Debug/libDylibTest.dylib normal x86_64
+r0
+

@@ -1,0 +1,226 @@
+TAppExample
+v7
+r0
+t362604495.207577
+cCheck dependencies
+cProcessInfoPlistFile /Users/miguelsilva/Desktop/Proyectos/AppExample/build/Debug/AppExample.app/Contents/Info.plist AppExample-Info.plist
+cCopyStringsFile /Users/miguelsilva/Desktop/Proyectos/AppExample/build/Debug/AppExample.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+cCompileXIB /Users/miguelsilva/Desktop/Proyectos/AppExample/English.lproj/MainMenu.xib
+cProcessPCH /var/folders/6d/6dLHbI0kHd8XWb+DA+jdzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AppExample_Prefix-gyqmrwlicrfyttduxwdylpfjjtvo/AppExample_Prefix.pch.gch AppExample_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/AppExample.build/Debug/AppExample.build/Objects-normal/x86_64/main.o /Users/miguelsilva/Desktop/Proyectos/AppExample/main.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/AppExample.build/Debug/AppExample.build/Objects-normal/x86_64/AppExampleAppDelegate.o /Users/miguelsilva/Desktop/Proyectos/AppExample/AppExampleAppDelegate.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/AppExample.build/Debug/AppExample.build/Objects-normal/x86_64/AppController.o /Users/miguelsilva/Desktop/Proyectos/AppExample/AppController.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/miguelsilva/Desktop/Proyectos/AppExample/build/Debug/AppExample.app/Contents/MacOS/AppExample normal x86_64
+cTouch /Users/miguelsilva/Desktop/Proyectos/AppExample/build/Debug/AppExample.app
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004D5A274300000000000000EE
+t1297753923
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000040C4AA6800000000000001E5
+t1086630504
+s485
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000004A1F2D63000000000000A5E0
+t1243557219
+s42464
+
+N/Users/miguelsilva/Desktop/Proyectos/AppExample/AppController.h
+c000000004FECB70300000000000000FD
+t1340913411
+s253
+i<Cocoa/Cocoa.h>
+
+N/Users/miguelsilva/Desktop/Proyectos/AppExample/AppController.m
+c000000004FECB7490000000000000101
+t1340913481
+s257
+i"AppController.h"
+
+N/Users/miguelsilva/Desktop/Proyectos/AppExample/AppExampleAppDelegate.h
+c000000004FE620EE0000000000000135
+t1340481774
+s309
+i<Cocoa/Cocoa.h>
+
+N/Users/miguelsilva/Desktop/Proyectos/AppExample/AppExampleAppDelegate.m
+c000000004FE620EE000000000000016D
+t1340481774
+s365
+i"AppExampleAppDelegate.h"
+
+N/Users/miguelsilva/Desktop/Proyectos/AppExample/AppExample_Prefix.pch
+c000000004FE620EE0000000000000097
+t1340481774
+s151
+i<Cocoa/Cocoa.h>
+
+N/Users/miguelsilva/Desktop/Proyectos/AppExample/English.lproj/InfoPlist.strings
+c000000004FE620EE000000000000002D
+t1340481774
+s45
+
+N/Users/miguelsilva/Desktop/Proyectos/AppExample/English.lproj/MainMenu.xib
+c000000004FECAC7C000000000002F2D5
+t1340910716
+s193237
+
+N/Users/miguelsilva/Desktop/Proyectos/AppExample/build/AppExample.build/Debug/AppExample.build/Objects-normal/x86_64/AppController.o
+t1340911694
+s7376
+
+N/Users/miguelsilva/Desktop/Proyectos/AppExample/build/AppExample.build/Debug/AppExample.build/Objects-normal/x86_64/AppExample.LinkFileList
+c000000004FECB045000000000000018B
+t1340911685
+s395
+
+N/Users/miguelsilva/Desktop/Proyectos/AppExample/build/AppExample.build/Debug/AppExample.build/Objects-normal/x86_64/AppExampleAppDelegate.o
+t1340481795
+s21200
+
+N/Users/miguelsilva/Desktop/Proyectos/AppExample/build/AppExample.build/Debug/AppExample.build/Objects-normal/x86_64/main.o
+t1340481795
+s5016
+
+N/Users/miguelsilva/Desktop/Proyectos/AppExample/build/Debug/AppExample.app
+t1340911695
+s102
+
+N/Users/miguelsilva/Desktop/Proyectos/AppExample/build/Debug/AppExample.app/Contents/Info.plist
+t1340481791
+s1293
+
+N/Users/miguelsilva/Desktop/Proyectos/AppExample/build/Debug/AppExample.app/Contents/MacOS/AppExample
+t1340911695
+s15528
+
+N/Users/miguelsilva/Desktop/Proyectos/AppExample/build/Debug/AppExample.app/Contents/PkgInfo
+t1340481791
+s8
+
+N/Users/miguelsilva/Desktop/Proyectos/AppExample/build/Debug/AppExample.app/Contents/Resources/English.lproj/InfoPlist.strings
+t1340481791
+s92
+
+N/Users/miguelsilva/Desktop/Proyectos/AppExample/build/Debug/AppExample.app/Contents/Resources/English.lproj/MainMenu.nib
+t1340910729
+s38465
+
+N/Users/miguelsilva/Desktop/Proyectos/AppExample/main.m
+c000000004FE620EE00000000000000F1
+t1340481774
+s241
+i<Cocoa/Cocoa.h>
+
+N/var/folders/6d/6dLHbI0kHd8XWb+DA+jdzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AppExample_Prefix-gyqmrwlicrfyttduxwdylpfjjtvo/AppExample_Prefix.pch.gch
+t1340481794
+s54306576
+
+NAppExample-Info.plist
+c000000004FE620EE00000000000003EA
+t1340481774
+s1002
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies362604493#362604493#0(0"0(0#1#0"8619222304#0"0#
+
+CCompileC build/AppExample.build/Debug/AppExample.build/Objects-normal/x86_64/AppController.o /Users/miguelsilva/Desktop/Proyectos/AppExample/AppController.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s362604493.662140
+e362604494.045802
+r1
+xCompileC
+xbuild/AppExample.build/Debug/AppExample.build/Objects-normal/x86_64/AppController.o
+x/Users/miguelsilva/Desktop/Proyectos/AppExample/AppController.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@71"Compile /Users/miguelsilva/Desktop/Proyectos/AppExample/AppController.m362604493#362604494#0(0"0(0#0#63"/Users/miguelsilva/Desktop/Proyectos/AppExample/AppController.m8619810912#1627"    cd /Users/miguelsilva/Desktop/Proyectos/AppExample    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/miguelsilva/Desktop/Proyectos/AppExample/build/AppExample.build/Debug/AppExample.build/AppExample-generated-files.hmap -I/Users/miguelsilva/Desktop/Proyectos/AppExample/build/AppExample.build/Debug/AppExample.build/AppExample-own-target-headers.hmap -I/Users/miguelsilva/Desktop/Proyectos/AppExample/build/AppExample.build/Debug/AppExample.build/AppExample-all-target-headers.hmap -iquote /Users/miguelsilva/Desktop/Proyectos/AppExample/build/AppExample.build/Debug/AppExample.build/AppExample-project-headers.hmap -F/Users/miguelsilva/Desktop/Proyectos/AppExample/build/Debug -I/Users/miguelsilva/Desktop/Proyectos/AppExample/build/Debug/include -I/Users/miguelsilva/Desktop/Proyectos/AppExample/build/AppExample.build/Debug/AppExample.build/DerivedSources/x86_64 -I/Users/miguelsilva/Desktop/Proyectos/AppExample/build/AppExample.build/Debug/AppExample.build/DerivedSources -include /var/folders/6d/6dLHbI0kHd8XWb+DA+jdzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AppExample_Prefix-gyqmrwlicrfyttduxwdylpfjjtvo/AppExample_Prefix.pch -c /Users/miguelsilva/Desktop/Proyectos/AppExample/AppController.m -o /Users/miguelsilva/Desktop/Proyectos/AppExample/build/AppExample.build/Debug/AppExample.build/Objects-normal/x86_64/AppController.o0#
+
+CCompileC build/AppExample.build/Debug/AppExample.build/Objects-normal/x86_64/AppExampleAppDelegate.o /Users/miguelsilva/Desktop/Proyectos/AppExample/AppExampleAppDelegate.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s362174595.023740
+e362174595.290710
+r1
+xCompileC
+xbuild/AppExample.build/Debug/AppExample.build/Objects-normal/x86_64/AppExampleAppDelegate.o
+x/Users/miguelsilva/Desktop/Proyectos/AppExample/AppExampleAppDelegate.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@79"Compile /Users/miguelsilva/Desktop/Proyectos/AppExample/AppExampleAppDelegate.m362174595#362174595#0(0"0(0#0#71"/Users/miguelsilva/Desktop/Proyectos/AppExample/AppExampleAppDelegate.m8606795264#1643"    cd /Users/miguelsilva/Desktop/Proyectos/AppExample    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/miguelsilva/Desktop/Proyectos/AppExample/build/AppExample.build/Debug/AppExample.build/AppExample-generated-files.hmap -I/Users/miguelsilva/Desktop/Proyectos/AppExample/build/AppExample.build/Debug/AppExample.build/AppExample-own-target-headers.hmap -I/Users/miguelsilva/Desktop/Proyectos/AppExample/build/AppExample.build/Debug/AppExample.build/AppExample-all-target-headers.hmap -iquote /Users/miguelsilva/Desktop/Proyectos/AppExample/build/AppExample.build/Debug/AppExample.build/AppExample-project-headers.hmap -F/Users/miguelsilva/Desktop/Proyectos/AppExample/build/Debug -I/Users/miguelsilva/Desktop/Proyectos/AppExample/build/Debug/include -I/Users/miguelsilva/Desktop/Proyectos/AppExample/build/AppExample.build/Debug/AppExample.build/DerivedSources/x86_64 -I/Users/miguelsilva/Desktop/Proyectos/AppExample/build/AppExample.build/Debug/AppExample.build/DerivedSources -include /var/folders/6d/6dLHbI0kHd8XWb+DA+jdzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AppExample_Prefix-gyqmrwlicrfyttduxwdylpfjjtvo/AppExample_Prefix.pch -c /Users/miguelsilva/Desktop/Proyectos/AppExample/AppExampleAppDelegate.m -o /Users/miguelsilva/Desktop/Proyectos/AppExample/build/AppExample.build/Debug/AppExample.build/Objects-normal/x86_64/AppExampleAppDelegate.o0#
+
+CCompileC build/AppExample.build/Debug/AppExample.build/Objects-normal/x86_64/main.o /Users/miguelsilva/Desktop/Proyectos/AppExample/main.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s362174595.022817
+e362174595.275870
+r1
+xCompileC
+xbuild/AppExample.build/Debug/AppExample.build/Objects-normal/x86_64/main.o
+x/Users/miguelsilva/Desktop/Proyectos/AppExample/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@62"Compile /Users/miguelsilva/Desktop/Proyectos/AppExample/main.m362174595#362174595#0(0"0(0#0#54"/Users/miguelsilva/Desktop/Proyectos/AppExample/main.m8606993376#1609"    cd /Users/miguelsilva/Desktop/Proyectos/AppExample    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/miguelsilva/Desktop/Proyectos/AppExample/build/AppExample.build/Debug/AppExample.build/AppExample-generated-files.hmap -I/Users/miguelsilva/Desktop/Proyectos/AppExample/build/AppExample.build/Debug/AppExample.build/AppExample-own-target-headers.hmap -I/Users/miguelsilva/Desktop/Proyectos/AppExample/build/AppExample.build/Debug/AppExample.build/AppExample-all-target-headers.hmap -iquote /Users/miguelsilva/Desktop/Proyectos/AppExample/build/AppExample.build/Debug/AppExample.build/AppExample-project-headers.hmap -F/Users/miguelsilva/Desktop/Proyectos/AppExample/build/Debug -I/Users/miguelsilva/Desktop/Proyectos/AppExample/build/Debug/include -I/Users/miguelsilva/Desktop/Proyectos/AppExample/build/AppExample.build/Debug/AppExample.build/DerivedSources/x86_64 -I/Users/miguelsilva/Desktop/Proyectos/AppExample/build/AppExample.build/Debug/AppExample.build/DerivedSources -include /var/folders/6d/6dLHbI0kHd8XWb+DA+jdzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AppExample_Prefix-gyqmrwlicrfyttduxwdylpfjjtvo/AppExample_Prefix.pch -c /Users/miguelsilva/Desktop/Proyectos/AppExample/main.m -o /Users/miguelsilva/Desktop/Proyectos/AppExample/build/AppExample.build/Debug/AppExample.build/Objects-normal/x86_64/main.o0#
+
+CCompileXIB /Users/miguelsilva/Desktop/Proyectos/AppExample/English.lproj/MainMenu.xib
+s362603529.054398
+e362603529.423763
+r1
+xCompileXIB
+x/Users/miguelsilva/Desktop/Proyectos/AppExample/English.lproj/MainMenu.xib
+lSLF07#2@37"CompileXIB English.lproj/MainMenu.xib362603529#362603529#0(0"0(0#0#74"/Users/miguelsilva/Desktop/Proyectos/AppExample/English.lproj/MainMenu.xib19140500286144632#394"    cd /Users/miguelsilva/Desktop/Proyectos/AppExample    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/miguelsilva/Desktop/Proyectos/AppExample/build/Debug/AppExample.app/Contents/Resources/English.lproj/MainMenu.nib /Users/miguelsilva/Desktop/Proyectos/AppExample/English.lproj/MainMenu.xib --sdk /Developer/SDKs/MacOSX10.6.sdk0#
+
+CCopyStringsFile /Users/miguelsilva/Desktop/Proyectos/AppExample/build/Debug/AppExample.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+s362174591.099013
+e362174591.381100
+r1
+xCopyStringsFile
+x/Users/miguelsilva/Desktop/Proyectos/AppExample/build/Debug/AppExample.app/Contents/Resources/English.lproj/InfoPlist.strings
+xEnglish.lproj/InfoPlist.strings
+lSLF07#2@36"Copy English.lproj/InfoPlist.strings362174591#362174591#0(0"0(0#0#79"/Users/miguelsilva/Desktop/Proyectos/AppExample/English.lproj/InfoPlist.strings8606518016#386"    cd /Users/miguelsilva/Desktop/Proyectos/AppExample    setenv ICONV /usr/bin/iconv    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding UTF-16 English.lproj/InfoPlist.strings --outdir /Users/miguelsilva/Desktop/Proyectos/AppExample/build/Debug/AppExample.app/Contents/Resources/English.lproj0#
+
+CLd /Users/miguelsilva/Desktop/Proyectos/AppExample/build/Debug/AppExample.app/Contents/MacOS/AppExample normal x86_64
+s362604494.045891
+e362604495.205015
+r1
+xLd
+x/Users/miguelsilva/Desktop/Proyectos/AppExample/build/Debug/AppExample.app/Contents/MacOS/AppExample
+xnormal
+xx86_64
+lSLF07#2@105"Link /Users/miguelsilva/Desktop/Proyectos/AppExample/build/Debug/AppExample.app/Contents/MacOS/AppExample362604494#362604495#0(0"0(0#0#0"8620109728#602"    cd /Users/miguelsilva/Desktop/Proyectos/AppExample    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/miguelsilva/Desktop/Proyectos/AppExample/build/Debug -F/Users/miguelsilva/Desktop/Proyectos/AppExample/build/Debug -filelist /Users/miguelsilva/Desktop/Proyectos/AppExample/build/AppExample.build/Debug/AppExample.build/Objects-normal/x86_64/AppExample.LinkFileList -mmacosx-version-min=10.6 -framework Cocoa -o /Users/miguelsilva/Desktop/Proyectos/AppExample/build/Debug/AppExample.app/Contents/MacOS/AppExample0#
+
+CProcessInfoPlistFile /Users/miguelsilva/Desktop/Proyectos/AppExample/build/Debug/AppExample.app/Contents/Info.plist AppExample-Info.plist
+s362174591.080314
+e362174591.098916
+r1
+xProcessInfoPlistFile
+x/Users/miguelsilva/Desktop/Proyectos/AppExample/build/Debug/AppExample.app/Contents/Info.plist
+xAppExample-Info.plist
+lSLF07#2@29"Process AppExample-Info.plist362174591#362174591#0(0"0(0#0#69"/Users/miguelsilva/Desktop/Proyectos/AppExample/AppExample-Info.plist19140500286341228#346"    cd /Users/miguelsilva/Desktop/Proyectos/AppExample    builtin-infoPlistUtility AppExample-Info.plist -genpkginfo /Users/miguelsilva/Desktop/Proyectos/AppExample/build/Debug/AppExample.app/Contents/PkgInfo -expandbuildsettings -platform macosx -o /Users/miguelsilva/Desktop/Proyectos/AppExample/build/Debug/AppExample.app/Contents/Info.plist0#
+
+CProcessPCH /var/folders/6d/6dLHbI0kHd8XWb+DA+jdzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AppExample_Prefix-gyqmrwlicrfyttduxwdylpfjjtvo/AppExample_Prefix.pch.gch AppExample_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s362174591.466991
+e362174595.022629
+r1
+xProcessPCH
+x/var/folders/6d/6dLHbI0kHd8XWb+DA+jdzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AppExample_Prefix-gyqmrwlicrfyttduxwdylpfjjtvo/AppExample_Prefix.pch.gch
+xAppExample_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@32"Precompile AppExample_Prefix.pch362174591#362174595#0(0"0(0#0#69"/Users/miguelsilva/Desktop/Proyectos/AppExample/AppExample_Prefix.pch8606952544#1503"    cd /Users/miguelsilva/Desktop/Proyectos/AppExample    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/miguelsilva/Desktop/Proyectos/AppExample/build/AppExample.build/Debug/AppExample.build/AppExample-generated-files.hmap -I/Users/miguelsilva/Desktop/Proyectos/AppExample/build/AppExample.build/Debug/AppExample.build/AppExample-own-target-headers.hmap -I/Users/miguelsilva/Desktop/Proyectos/AppExample/build/AppExample.build/Debug/AppExample.build/AppExample-all-target-headers.hmap -iquote /Users/miguelsilva/Desktop/Proyectos/AppExample/build/AppExample.build/Debug/AppExample.build/AppExample-project-headers.hmap -F/Users/miguelsilva/Desktop/Proyectos/AppExample/build/Debug -I/Users/miguelsilva/Desktop/Proyectos/AppExample/build/Debug/include -I/Users/miguelsilva/Desktop/Proyectos/AppExample/build/AppExample.build/Debug/AppExample.build/DerivedSources/x86_64 -I/Users/miguelsilva/Desktop/Proyectos/AppExample/build/AppExample.build/Debug/AppExample.build/DerivedSources -c /Users/miguelsilva/Desktop/Proyectos/AppExample/AppExample_Prefix.pch -o /var/folders/6d/6dLHbI0kHd8XWb+DA+jdzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AppExample_Prefix-gyqmrwlicrfyttduxwdylpfjjtvo/AppExample_Prefix.pch.gch0#
+
+CTouch /Users/miguelsilva/Desktop/Proyectos/AppExample/build/Debug/AppExample.app
+s362604495.205202
+e362604495.207536
+r1
+xTouch
+x/Users/miguelsilva/Desktop/Proyectos/AppExample/build/Debug/AppExample.app
+lSLF07#2@80"Touch /Users/miguelsilva/Desktop/Proyectos/AppExample/build/Debug/AppExample.app362604495#362604495#0(0"0(0#0#0"8603334688#152"    cd /Users/miguelsilva/Desktop/Proyectos/AppExample    /usr/bin/touch -c /Users/miguelsilva/Desktop/Proyectos/AppExample/build/Debug/AppExample.app0#
+

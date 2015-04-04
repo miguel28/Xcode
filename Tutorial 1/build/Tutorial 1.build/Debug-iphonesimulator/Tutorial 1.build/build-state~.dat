@@ -1,0 +1,257 @@
+TTutorial 1
+v7
+r0
+t334167192.460410
+cCheck dependencies
+cProcessInfoPlistFile "/Users/miguelsilva/Desktop/Proyectos/Tutorial 1/build/Debug-iphonesimulator/Tutorial 1.app/Info.plist" Tutorial_1-Info.plist
+cCompileXIB "/Users/miguelsilva/Desktop/Proyectos/Tutorial 1/MainWindow.xib"
+cCompileXIB "/Users/miguelsilva/Desktop/Proyectos/Tutorial 1/Tutorial_1ViewController.xib"
+cProcessPCH /var/folders/6d/6dLHbI0kHd8XWb+DA+jdzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Tutorial_1_Prefix-cobjbuzzbykjgjeqzersnaqsaurn/Tutorial_1_Prefix.pch.gch Tutorial_1_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Tutorial 1.build/Debug-iphonesimulator/Tutorial 1.build/Objects-normal/i386/main.o" "/Users/miguelsilva/Desktop/Proyectos/Tutorial 1/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Tutorial 1.build/Debug-iphonesimulator/Tutorial 1.build/Objects-normal/i386/Tutorial_1AppDelegate.o" "/Users/miguelsilva/Desktop/Proyectos/Tutorial 1/Classes/Tutorial_1AppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Tutorial 1.build/Debug-iphonesimulator/Tutorial 1.build/Objects-normal/i386/Tutorial_1ViewController.o" "/Users/miguelsilva/Desktop/Proyectos/Tutorial 1/Classes/Tutorial_1ViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/miguelsilva/Desktop/Proyectos/Tutorial 1/build/Debug-iphonesimulator/Tutorial 1.app/Tutorial 1" normal i386
+cGenerateDSYMFile "/Users/miguelsilva/Desktop/Proyectos/Tutorial 1/build/Debug-iphonesimulator/Tutorial 1.app.dSYM" "/Users/miguelsilva/Desktop/Proyectos/Tutorial 1/build/Debug-iphonesimulator/Tutorial 1.app/Tutorial 1"
+cTouch "/Users/miguelsilva/Desktop/Proyectos/Tutorial 1/build/Debug-iphonesimulator/Tutorial 1.app"
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk
+c000000004D5C9B4E0000000000000110
+t1297914702
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004D54CFFA00000000002999B0
+t1297403898
+s2726320
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004D54CFE5000000000029DA70
+t1297403877
+s2742896
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004D54CFB80000000000001466
+t1297403832
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004D5615B40000000000000AA1
+t1297487284
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004D5616030000000000766870
+t1297487363
+s7759984
+
+N/Users/miguelsilva/Desktop/Proyectos/Tutorial 1/Classes/Tutorial_1AppDelegate.h
+c000000004E3AC3FA00000000000001E1
+t1312474106
+s481
+i<UIKit/UIKit.h>
+
+N/Users/miguelsilva/Desktop/Proyectos/Tutorial 1/Classes/Tutorial_1AppDelegate.m
+c000000004E3AC3FA0000000000000AA9
+t1312474106
+s2729
+i"Tutorial_1AppDelegate.h"
+i"Tutorial_1ViewController.h"
+
+N/Users/miguelsilva/Desktop/Proyectos/Tutorial 1/Classes/Tutorial_1ViewController.h
+c000000004E3AC3FA00000000000000E7
+t1312474106
+s231
+i<UIKit/UIKit.h>
+
+N/Users/miguelsilva/Desktop/Proyectos/Tutorial 1/Classes/Tutorial_1ViewController.m
+c000000004E3AC3FA00000000000005BD
+t1312474106
+s1469
+i"Tutorial_1ViewController.h"
+
+N/Users/miguelsilva/Desktop/Proyectos/Tutorial 1/MainWindow.xib
+c000000004E3AC3FA0000000000004E4D
+t1312474106
+s20045
+
+N/Users/miguelsilva/Desktop/Proyectos/Tutorial 1/Tutorial_1ViewController.xib
+c000000004E3AC5060000000000005035
+t1312474374
+s20533
+
+N/Users/miguelsilva/Desktop/Proyectos/Tutorial 1/Tutorial_1_Prefix.pch
+c000000004E3AC3FA00000000000000BD
+t1312474106
+s189
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/miguelsilva/Desktop/Proyectos/Tutorial 1/build/Debug-iphonesimulator/Tutorial 1.app
+t1312474392
+s238
+
+N/Users/miguelsilva/Desktop/Proyectos/Tutorial 1/build/Debug-iphonesimulator/Tutorial 1.app.dSYM
+t1312474392
+s102
+
+N/Users/miguelsilva/Desktop/Proyectos/Tutorial 1/build/Debug-iphonesimulator/Tutorial 1.app/Info.plist
+t1312474389
+s603
+
+N/Users/miguelsilva/Desktop/Proyectos/Tutorial 1/build/Debug-iphonesimulator/Tutorial 1.app/MainWindow.nib
+t1312474390
+s1687
+
+N/Users/miguelsilva/Desktop/Proyectos/Tutorial 1/build/Debug-iphonesimulator/Tutorial 1.app/PkgInfo
+t1312474389
+s8
+
+N/Users/miguelsilva/Desktop/Proyectos/Tutorial 1/build/Debug-iphonesimulator/Tutorial 1.app/Tutorial 1
+t1312474392
+s17276
+
+N/Users/miguelsilva/Desktop/Proyectos/Tutorial 1/build/Debug-iphonesimulator/Tutorial 1.app/Tutorial_1ViewController.nib
+t1312474390
+s3401
+
+N/Users/miguelsilva/Desktop/Proyectos/Tutorial 1/build/Tutorial 1.build/Debug-iphonesimulator/Tutorial 1.build/Objects-normal/i386/Tutorial 1.LinkFileList
+c000000004E3AC51500000000000001C0
+t1312474389
+s448
+
+N/Users/miguelsilva/Desktop/Proyectos/Tutorial 1/build/Tutorial 1.build/Debug-iphonesimulator/Tutorial 1.build/Objects-normal/i386/Tutorial_1AppDelegate.o
+t1312474391
+s51504
+
+N/Users/miguelsilva/Desktop/Proyectos/Tutorial 1/build/Tutorial 1.build/Debug-iphonesimulator/Tutorial 1.build/Objects-normal/i386/Tutorial_1ViewController.o
+t1312474391
+s38028
+
+N/Users/miguelsilva/Desktop/Proyectos/Tutorial 1/build/Tutorial 1.build/Debug-iphonesimulator/Tutorial 1.build/Objects-normal/i386/main.o
+t1312474391
+s6328
+
+N/Users/miguelsilva/Desktop/Proyectos/Tutorial 1/main.m
+c000000004E3AC3FA000000000000015C
+t1312474106
+s348
+i<UIKit/UIKit.h>
+
+N/var/folders/6d/6dLHbI0kHd8XWb+DA+jdzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Tutorial_1_Prefix-cobjbuzzbykjgjeqzersnaqsaurn/Tutorial_1_Prefix.pch.gch
+t1312474391
+s15814064
+
+NTutorial_1-Info.plist
+c000000004E3AC3FA000000000000038D
+t1312474106
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies334167189#334167189#0(0"0(0#1#0"3343187568374212096#0"0#
+
+CCompileC "build/Tutorial 1.build/Debug-iphonesimulator/Tutorial 1.build/Objects-normal/i386/Tutorial_1AppDelegate.o" "/Users/miguelsilva/Desktop/Proyectos/Tutorial 1/Classes/Tutorial_1AppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s334167191.568980
+e334167191.791209
+r1
+xCompileC
+xbuild/Tutorial 1.build/Debug-iphonesimulator/Tutorial 1.build/Objects-normal/i386/Tutorial_1AppDelegate.o
+x/Users/miguelsilva/Desktop/Proyectos/Tutorial 1/Classes/Tutorial_1AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@87"Compile /Users/miguelsilva/Desktop/Proyectos/Tutorial 1/Classes/Tutorial_1AppDelegate.m334167191#334167191#0(0"0(0#0#79"/Users/miguelsilva/Desktop/Proyectos/Tutorial 1/Classes/Tutorial_1AppDelegate.m8604199392#2137"    cd "/Users/miguelsilva/Desktop/Proyectos/Tutorial 1"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/Users/miguelsilva/Desktop/Proyectos/Tutorial 1/build/Tutorial 1.build/Debug-iphonesimulator/Tutorial 1.build/Tutorial 1-generated-files.hmap" "-I/Users/miguelsilva/Desktop/Proyectos/Tutorial 1/build/Tutorial 1.build/Debug-iphonesimulator/Tutorial 1.build/Tutorial 1-own-target-headers.hmap" "-I/Users/miguelsilva/Desktop/Proyectos/Tutorial 1/build/Tutorial 1.build/Debug-iphonesimulator/Tutorial 1.build/Tutorial 1-all-target-headers.hmap" -iquote "/Users/miguelsilva/Desktop/Proyectos/Tutorial 1/build/Tutorial 1.build/Debug-iphonesimulator/Tutorial 1.build/Tutorial 1-project-headers.hmap" "-F/Users/miguelsilva/Desktop/Proyectos/Tutorial 1/build/Debug-iphonesimulator" "-I/Users/miguelsilva/Desktop/Proyectos/Tutorial 1/build/Debug-iphonesimulator/include" "-I/Users/miguelsilva/Desktop/Proyectos/Tutorial 1/build/Tutorial 1.build/Debug-iphonesimulator/Tutorial 1.build/DerivedSources/i386" "-I/Users/miguelsilva/Desktop/Proyectos/Tutorial 1/build/Tutorial 1.build/Debug-iphonesimulator/Tutorial 1.build/DerivedSources" -include /var/folders/6d/6dLHbI0kHd8XWb+DA+jdzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Tutorial_1_Prefix-cobjbuzzbykjgjeqzersnaqsaurn/Tutorial_1_Prefix.pch -c "/Users/miguelsilva/Desktop/Proyectos/Tutorial 1/Classes/Tutorial_1AppDelegate.m" -o "/Users/miguelsilva/Desktop/Proyectos/Tutorial 1/build/Tutorial 1.build/Debug-iphonesimulator/Tutorial 1.build/Objects-normal/i386/Tutorial_1AppDelegate.o"0#
+
+CCompileC "build/Tutorial 1.build/Debug-iphonesimulator/Tutorial 1.build/Objects-normal/i386/Tutorial_1ViewController.o" "/Users/miguelsilva/Desktop/Proyectos/Tutorial 1/Classes/Tutorial_1ViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s334167191.773770
+e334167191.848553
+r1
+xCompileC
+xbuild/Tutorial 1.build/Debug-iphonesimulator/Tutorial 1.build/Objects-normal/i386/Tutorial_1ViewController.o
+x/Users/miguelsilva/Desktop/Proyectos/Tutorial 1/Classes/Tutorial_1ViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@90"Compile /Users/miguelsilva/Desktop/Proyectos/Tutorial 1/Classes/Tutorial_1ViewController.m334167191#334167191#0(0"0(0#0#82"/Users/miguelsilva/Desktop/Proyectos/Tutorial 1/Classes/Tutorial_1ViewController.m8603080160#2143"    cd "/Users/miguelsilva/Desktop/Proyectos/Tutorial 1"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/Users/miguelsilva/Desktop/Proyectos/Tutorial 1/build/Tutorial 1.build/Debug-iphonesimulator/Tutorial 1.build/Tutorial 1-generated-files.hmap" "-I/Users/miguelsilva/Desktop/Proyectos/Tutorial 1/build/Tutorial 1.build/Debug-iphonesimulator/Tutorial 1.build/Tutorial 1-own-target-headers.hmap" "-I/Users/miguelsilva/Desktop/Proyectos/Tutorial 1/build/Tutorial 1.build/Debug-iphonesimulator/Tutorial 1.build/Tutorial 1-all-target-headers.hmap" -iquote "/Users/miguelsilva/Desktop/Proyectos/Tutorial 1/build/Tutorial 1.build/Debug-iphonesimulator/Tutorial 1.build/Tutorial 1-project-headers.hmap" "-F/Users/miguelsilva/Desktop/Proyectos/Tutorial 1/build/Debug-iphonesimulator" "-I/Users/miguelsilva/Desktop/Proyectos/Tutorial 1/build/Debug-iphonesimulator/include" "-I/Users/miguelsilva/Desktop/Proyectos/Tutorial 1/build/Tutorial 1.build/Debug-iphonesimulator/Tutorial 1.build/DerivedSources/i386" "-I/Users/miguelsilva/Desktop/Proyectos/Tutorial 1/build/Tutorial 1.build/Debug-iphonesimulator/Tutorial 1.build/DerivedSources" -include /var/folders/6d/6dLHbI0kHd8XWb+DA+jdzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Tutorial_1_Prefix-cobjbuzzbykjgjeqzersnaqsaurn/Tutorial_1_Prefix.pch -c "/Users/miguelsilva/Desktop/Proyectos/Tutorial 1/Classes/Tutorial_1ViewController.m" -o "/Users/miguelsilva/Desktop/Proyectos/Tutorial 1/build/Tutorial 1.build/Debug-iphonesimulator/Tutorial 1.build/Objects-normal/i386/Tutorial_1ViewController.o"0#
+
+CCompileC "build/Tutorial 1.build/Debug-iphonesimulator/Tutorial 1.build/Objects-normal/i386/main.o" "/Users/miguelsilva/Desktop/Proyectos/Tutorial 1/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s334167191.567999
+e334167191.773667
+r1
+xCompileC
+xbuild/Tutorial 1.build/Debug-iphonesimulator/Tutorial 1.build/Objects-normal/i386/main.o
+x/Users/miguelsilva/Desktop/Proyectos/Tutorial 1/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@62"Compile /Users/miguelsilva/Desktop/Proyectos/Tutorial 1/main.m334167191#334167191#0(0"0(0#0#54"/Users/miguelsilva/Desktop/Proyectos/Tutorial 1/main.m8603405184#2095"    cd "/Users/miguelsilva/Desktop/Proyectos/Tutorial 1"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/Users/miguelsilva/Desktop/Proyectos/Tutorial 1/build/Tutorial 1.build/Debug-iphonesimulator/Tutorial 1.build/Tutorial 1-generated-files.hmap" "-I/Users/miguelsilva/Desktop/Proyectos/Tutorial 1/build/Tutorial 1.build/Debug-iphonesimulator/Tutorial 1.build/Tutorial 1-own-target-headers.hmap" "-I/Users/miguelsilva/Desktop/Proyectos/Tutorial 1/build/Tutorial 1.build/Debug-iphonesimulator/Tutorial 1.build/Tutorial 1-all-target-headers.hmap" -iquote "/Users/miguelsilva/Desktop/Proyectos/Tutorial 1/build/Tutorial 1.build/Debug-iphonesimulator/Tutorial 1.build/Tutorial 1-project-headers.hmap" "-F/Users/miguelsilva/Desktop/Proyectos/Tutorial 1/build/Debug-iphonesimulator" "-I/Users/miguelsilva/Desktop/Proyectos/Tutorial 1/build/Debug-iphonesimulator/include" "-I/Users/miguelsilva/Desktop/Proyectos/Tutorial 1/build/Tutorial 1.build/Debug-iphonesimulator/Tutorial 1.build/DerivedSources/i386" "-I/Users/miguelsilva/Desktop/Proyectos/Tutorial 1/build/Tutorial 1.build/Debug-iphonesimulator/Tutorial 1.build/DerivedSources" -include /var/folders/6d/6dLHbI0kHd8XWb+DA+jdzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Tutorial_1_Prefix-cobjbuzzbykjgjeqzersnaqsaurn/Tutorial_1_Prefix.pch -c "/Users/miguelsilva/Desktop/Proyectos/Tutorial 1/main.m" -o "/Users/miguelsilva/Desktop/Proyectos/Tutorial 1/build/Tutorial 1.build/Debug-iphonesimulator/Tutorial 1.build/Objects-normal/i386/main.o"0#
+
+CCompileXIB "/Users/miguelsilva/Desktop/Proyectos/Tutorial 1/MainWindow.xib"
+s334167189.464404
+e334167190.125138
+r1
+xCompileXIB
+x/Users/miguelsilva/Desktop/Proyectos/Tutorial 1/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib334167189#334167190#0(0"0(0#0#62"/Users/miguelsilva/Desktop/Proyectos/Tutorial 1/MainWindow.xib8603332128#606"    cd "/Users/miguelsilva/Desktop/Proyectos/Tutorial 1"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/miguelsilva/Desktop/Proyectos/Tutorial 1/build/Debug-iphonesimulator/Tutorial 1.app/MainWindow.nib" "/Users/miguelsilva/Desktop/Proyectos/Tutorial 1/MainWindow.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCompileXIB "/Users/miguelsilva/Desktop/Proyectos/Tutorial 1/Tutorial_1ViewController.xib"
+s334167189.480434
+e334167190.144590
+r1
+xCompileXIB
+x/Users/miguelsilva/Desktop/Proyectos/Tutorial 1/Tutorial_1ViewController.xib
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+lSLF07#2@39"CompileXIB Tutorial_1ViewController.xib334167189#334167190#0(84"Couldn't open shared capabilities memory GSCapabilities (No such file or directory)0(0#0#76"/Users/miguelsilva/Desktop/Proyectos/Tutorial 1/Tutorial_1ViewController.xib8602958688#634"    cd "/Users/miguelsilva/Desktop/Proyectos/Tutorial 1"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/miguelsilva/Desktop/Proyectos/Tutorial 1/build/Debug-iphonesimulator/Tutorial 1.app/Tutorial_1ViewController.nib" "/Users/miguelsilva/Desktop/Proyectos/Tutorial 1/Tutorial_1ViewController.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CGenerateDSYMFile "/Users/miguelsilva/Desktop/Proyectos/Tutorial 1/build/Debug-iphonesimulator/Tutorial 1.app.dSYM" "/Users/miguelsilva/Desktop/Proyectos/Tutorial 1/build/Debug-iphonesimulator/Tutorial 1.app/Tutorial 1"
+s334167192.291878
+e334167192.427755
+r1
+xGenerateDSYMFile
+x/Users/miguelsilva/Desktop/Proyectos/Tutorial 1/build/Debug-iphonesimulator/Tutorial 1.app.dSYM
+x/Users/miguelsilva/Desktop/Proyectos/Tutorial 1/build/Debug-iphonesimulator/Tutorial 1.app/Tutorial 1
+lSLF07#2@122"GenerateDSYMFile "build/Debug-iphonesimulator/Tutorial 1.app.dSYM" "build/Debug-iphonesimulator/Tutorial 1.app/Tutorial 1"334167192#334167192#0(0"0(0#0#101"/Users/miguelsilva/Desktop/Proyectos/Tutorial 1/build/Debug-iphonesimulator/Tutorial 1.app/Tutorial 18599143424#425"    cd "/Users/miguelsilva/Desktop/Proyectos/Tutorial 1"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/miguelsilva/Desktop/Proyectos/Tutorial 1/build/Debug-iphonesimulator/Tutorial 1.app/Tutorial 1" -o "/Users/miguelsilva/Desktop/Proyectos/Tutorial 1/build/Debug-iphonesimulator/Tutorial 1.app.dSYM"0#
+
+CLd "/Users/miguelsilva/Desktop/Proyectos/Tutorial 1/build/Debug-iphonesimulator/Tutorial 1.app/Tutorial 1" normal i386
+s334167191.848643
+e334167192.291783
+r1
+xLd
+x/Users/miguelsilva/Desktop/Proyectos/Tutorial 1/build/Debug-iphonesimulator/Tutorial 1.app/Tutorial 1
+xnormal
+xi386
+lSLF07#2@106"Link /Users/miguelsilva/Desktop/Proyectos/Tutorial 1/build/Debug-iphonesimulator/Tutorial 1.app/Tutorial 1334167191#334167192#0(0"0(0#0#0"8599545664#970"    cd "/Users/miguelsilva/Desktop/Proyectos/Tutorial 1"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk "-L/Users/miguelsilva/Desktop/Proyectos/Tutorial 1/build/Debug-iphonesimulator" "-F/Users/miguelsilva/Desktop/Proyectos/Tutorial 1/build/Debug-iphonesimulator" -filelist "/Users/miguelsilva/Desktop/Proyectos/Tutorial 1/build/Tutorial 1.build/Debug-iphonesimulator/Tutorial 1.build/Objects-normal/i386/Tutorial 1.LinkFileList" -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o "/Users/miguelsilva/Desktop/Proyectos/Tutorial 1/build/Debug-iphonesimulator/Tutorial 1.app/Tutorial 1"0#
+
+CProcessInfoPlistFile "/Users/miguelsilva/Desktop/Proyectos/Tutorial 1/build/Debug-iphonesimulator/Tutorial 1.app/Info.plist" Tutorial_1-Info.plist
+s334167189.426550
+e334167189.464300
+r1
+xProcessInfoPlistFile
+x/Users/miguelsilva/Desktop/Proyectos/Tutorial 1/build/Debug-iphonesimulator/Tutorial 1.app/Info.plist
+xTutorial_1-Info.plist
+lSLF07#2@29"Process Tutorial_1-Info.plist334167189#334167189#0(0"0(0#0#69"/Users/miguelsilva/Desktop/Proyectos/Tutorial 1/Tutorial_1-Info.plist7074927554949376000#521"    cd "/Users/miguelsilva/Desktop/Proyectos/Tutorial 1"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Tutorial_1-Info.plist -genpkginfo "/Users/miguelsilva/Desktop/Proyectos/Tutorial 1/build/Debug-iphonesimulator/Tutorial 1.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Users/miguelsilva/Desktop/Proyectos/Tutorial 1/build/Debug-iphonesimulator/Tutorial 1.app/Info.plist"0#
+
+CProcessPCH /var/folders/6d/6dLHbI0kHd8XWb+DA+jdzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Tutorial_1_Prefix-cobjbuzzbykjgjeqzersnaqsaurn/Tutorial_1_Prefix.pch.gch Tutorial_1_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s334167190.144784
+e334167191.567824
+r1
+xProcessPCH
+x/var/folders/6d/6dLHbI0kHd8XWb+DA+jdzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Tutorial_1_Prefix-cobjbuzzbykjgjeqzersnaqsaurn/Tutorial_1_Prefix.pch.gch
+xTutorial_1_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@32"Precompile Tutorial_1_Prefix.pch334167190#334167191#0(0"0(0#0#69"/Users/miguelsilva/Desktop/Proyectos/Tutorial 1/Tutorial_1_Prefix.pch8603296896#1973"    cd "/Users/miguelsilva/Desktop/Proyectos/Tutorial 1"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/Users/miguelsilva/Desktop/Proyectos/Tutorial 1/build/Tutorial 1.build/Debug-iphonesimulator/Tutorial 1.build/Tutorial 1-generated-files.hmap" "-I/Users/miguelsilva/Desktop/Proyectos/Tutorial 1/build/Tutorial 1.build/Debug-iphonesimulator/Tutorial 1.build/Tutorial 1-own-target-headers.hmap" "-I/Users/miguelsilva/Desktop/Proyectos/Tutorial 1/build/Tutorial 1.build/Debug-iphonesimulator/Tutorial 1.build/Tutorial 1-all-target-headers.hmap" -iquote "/Users/miguelsilva/Desktop/Proyectos/Tutorial 1/build/Tutorial 1.build/Debug-iphonesimulator/Tutorial 1.build/Tutorial 1-project-headers.hmap" "-F/Users/miguelsilva/Desktop/Proyectos/Tutorial 1/build/Debug-iphonesimulator" "-I/Users/miguelsilva/Desktop/Proyectos/Tutorial 1/build/Debug-iphonesimulator/include" "-I/Users/miguelsilva/Desktop/Proyectos/Tutorial 1/build/Tutorial 1.build/Debug-iphonesimulator/Tutorial 1.build/DerivedSources/i386" "-I/Users/miguelsilva/Desktop/Proyectos/Tutorial 1/build/Tutorial 1.build/Debug-iphonesimulator/Tutorial 1.build/DerivedSources" -c "/Users/miguelsilva/Desktop/Proyectos/Tutorial 1/Tutorial_1_Prefix.pch" -o /var/folders/6d/6dLHbI0kHd8XWb+DA+jdzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Tutorial_1_Prefix-cobjbuzzbykjgjeqzersnaqsaurn/Tutorial_1_Prefix.pch.gch0#
+
+CTouch "/Users/miguelsilva/Desktop/Proyectos/Tutorial 1/build/Debug-iphonesimulator/Tutorial 1.app"
+s334167192.427837
+e334167192.460359
+r1
+xTouch
+x/Users/miguelsilva/Desktop/Proyectos/Tutorial 1/build/Debug-iphonesimulator/Tutorial 1.app
+lSLF07#2@96"Touch /Users/miguelsilva/Desktop/Proyectos/Tutorial 1/build/Debug-iphonesimulator/Tutorial 1.app334167192#334167192#0(0"0(0#0#0"8602425536#303"    cd "/Users/miguelsilva/Desktop/Proyectos/Tutorial 1"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/miguelsilva/Desktop/Proyectos/Tutorial 1/build/Debug-iphonesimulator/Tutorial 1.app"0#
+

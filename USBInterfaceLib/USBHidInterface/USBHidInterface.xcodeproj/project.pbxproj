@@ -1,0 +1,237 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		271AD4B3176FFE360082BAF7 /* hidapi.c in Sources */ = {isa = PBXBuildFile; fileRef = 271AD4B1176FFE360082BAF7 /* hidapi.c */; };
+		271AD4B4176FFE360082BAF7 /* hidapi.h in Headers */ = {isa = PBXBuildFile; fileRef = 271AD4B2176FFE360082BAF7 /* hidapi.h */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		271AD4A9176FFC700082BAF7 /* libUSBHidInterface.dylib */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.dylib"; includeInIndex = 0; path = libUSBHidInterface.dylib; sourceTree = BUILT_PRODUCTS_DIR; };
+		271AD4B1176FFE360082BAF7 /* hidapi.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = hidapi.c; sourceTree = "<group>"; };
+		271AD4B2176FFE360082BAF7 /* hidapi.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = hidapi.h; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		271AD4A6176FFC700082BAF7 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		271AD4A0176FFC700082BAF7 = {
+			isa = PBXGroup;
+			children = (
+				271AD4B0176FFE360082BAF7 /* USBInterface */,
+				271AD4AA176FFC700082BAF7 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		271AD4AA176FFC700082BAF7 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				271AD4A9176FFC700082BAF7 /* libUSBHidInterface.dylib */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		271AD4B0176FFE360082BAF7 /* USBInterface */ = {
+			isa = PBXGroup;
+			children = (
+				271AD4B1176FFE360082BAF7 /* hidapi.c */,
+				271AD4B2176FFE360082BAF7 /* hidapi.h */,
+			);
+			path = USBInterface;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXHeadersBuildPhase section */
+		271AD4A7176FFC700082BAF7 /* Headers */ = {
+			isa = PBXHeadersBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				271AD4B4176FFE360082BAF7 /* hidapi.h in Headers */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXHeadersBuildPhase section */
+
+/* Begin PBXNativeTarget section */
+		271AD4A8176FFC700082BAF7 /* USBHidInterface */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 271AD4AD176FFC700082BAF7 /* Build configuration list for PBXNativeTarget "USBHidInterface" */;
+			buildPhases = (
+				271AD4A5176FFC700082BAF7 /* Sources */,
+				271AD4A6176FFC700082BAF7 /* Frameworks */,
+				271AD4A7176FFC700082BAF7 /* Headers */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = USBHidInterface;
+			productName = USBHidInterface;
+			productReference = 271AD4A9176FFC700082BAF7 /* libUSBHidInterface.dylib */;
+			productType = "com.apple.product-type.library.dynamic";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		271AD4A1176FFC700082BAF7 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0460;
+				ORGANIZATIONNAME = "Miguel Silva";
+			};
+			buildConfigurationList = 271AD4A4176FFC700082BAF7 /* Build configuration list for PBXProject "USBHidInterface" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 271AD4A0176FFC700082BAF7;
+			productRefGroup = 271AD4AA176FFC700082BAF7 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				271AD4A8176FFC700082BAF7 /* USBHidInterface */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXSourcesBuildPhase section */
+		271AD4A5176FFC700082BAF7 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				271AD4B3176FFE360082BAF7 /* hidapi.c in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		271AD4AB176FFC700082BAF7 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_64_BIT)";
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_ENABLE_OBJC_EXCEPTIONS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.6;
+				ONLY_ACTIVE_ARCH = YES;
+				OTHER_CPLUSPLUSFLAGS = (
+					"$(OTHER_CFLAGS)",
+					"-framework",
+					IOKit,
+					"-framework",
+					CoreFoundation,
+				);
+				SDKROOT = macosx10.7;
+			};
+			name = Debug;
+		};
+		271AD4AC176FFC700082BAF7 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_64_BIT)";
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_ENABLE_OBJC_EXCEPTIONS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.6;
+				OTHER_CPLUSPLUSFLAGS = (
+					"$(OTHER_CFLAGS)",
+					"-framework",
+					IOKit,
+					"-framework",
+					CoreFoundation,
+				);
+				SDKROOT = macosx10.7;
+			};
+			name = Release;
+		};
+		271AD4AE176FFC700082BAF7 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				EXECUTABLE_PREFIX = lib;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		271AD4AF176FFC700082BAF7 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				EXECUTABLE_PREFIX = lib;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		271AD4A4176FFC700082BAF7 /* Build configuration list for PBXProject "USBHidInterface" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				271AD4AB176FFC700082BAF7 /* Debug */,
+				271AD4AC176FFC700082BAF7 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		271AD4AD176FFC700082BAF7 /* Build configuration list for PBXNativeTarget "USBHidInterface" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				271AD4AE176FFC700082BAF7 /* Debug */,
+				271AD4AF176FFC700082BAF7 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 271AD4A1176FFC700082BAF7 /* Project object */;
+}

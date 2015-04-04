@@ -1,0 +1,373 @@
+THidApi
+v7
+r0
+t393216374.923548
+cCheck dependencies
+cCompileC build/HidApi.build/Release/HidApi.build/Objects-normal/x86_64/hidapi.o /Users/mike/Desktop/Proyectos/Xcode/HidApi/hidapi.c normal x86_64 c com.apple.compilers.gcc.4_2
+cCompileC build/HidApi.build/Release/HidApi.build/Objects-normal/i386/hidapi.o /Users/mike/Desktop/Proyectos/Xcode/HidApi/hidapi.c normal i386 c com.apple.compilers.gcc.4_2
+cLd /Users/mike/Desktop/Proyectos/Xcode/HidApi/build/HidApi.build/Release/HidApi.build/Objects-normal/i386/libHidApi.dylib normal i386
+cLd /Users/mike/Desktop/Proyectos/Xcode/HidApi/build/HidApi.build/Release/HidApi.build/Objects-normal/x86_64/libHidApi.dylib normal x86_64
+
+N/Users/mike/Desktop/Proyectos/Xcode/HidApi/build/HidApi.build/Release/HidApi.build/Objects-normal/i386/HidApi.LinkFileList
+c0000000051BFC9F30000000000000070
+t1371523571
+s112
+
+N/Users/mike/Desktop/Proyectos/Xcode/HidApi/build/HidApi.build/Release/HidApi.build/Objects-normal/i386/hidapi.o
+t1371523573
+s34752
+
+N/Users/mike/Desktop/Proyectos/Xcode/HidApi/build/HidApi.build/Release/HidApi.build/Objects-normal/i386/libHidApi.dylib
+t2
+s0
+
+N/Users/mike/Desktop/Proyectos/Xcode/HidApi/build/HidApi.build/Release/HidApi.build/Objects-normal/x86_64/HidApi.LinkFileList
+c0000000051BFC9F40000000000000072
+t1371523572
+s114
+
+N/Users/mike/Desktop/Proyectos/Xcode/HidApi/build/HidApi.build/Release/HidApi.build/Objects-normal/x86_64/hidapi.o
+t1371523573
+s43728
+
+N/Users/mike/Desktop/Proyectos/Xcode/HidApi/build/HidApi.build/Release/HidApi.build/Objects-normal/x86_64/libHidApi.dylib
+t2
+s0
+
+N/Users/mike/Desktop/Proyectos/Xcode/HidApi/build/Release/libHidApi.dylib
+t2
+s0
+
+N/Users/mike/Desktop/Proyectos/Xcode/HidApi/build/Release/libHidApi.dylib.dSYM
+t2
+s0
+
+N/Users/mike/Desktop/Proyectos/Xcode/HidApi/hidapi.c
+c000000004EA777480000000000007020
+t1319597896
+s28704
+i<IOKit/hid/IOHIDManager.h>
+i<IOKit/hid/IOHIDKeys.h>
+i<CoreFoundation/CoreFoundation.h>
+i<wchar.h>
+i<locale.h>
+i<pthread.h>
+i<sys/time.h>
+i<unistd.h>
+i"hidapi.h"
+
+N/Users/mike/Desktop/Proyectos/Xcode/HidApi/hidapi.h
+c000000004EA7774800000000000033FD
+t1319597896
+s13309
+i<wchar.h>
+
+N/Volumes/SnowLeopardHDD/Developer/SDKs/MacOSX10.6.sdk
+c000000004D5A274300000000000000EE
+t1297753923
+s238
+
+N/Volumes/SnowLeopardHDD/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CoreFoundation.h
+c000000004CC3E8CB0000000000000AF4
+t1287907531
+s2804
+
+N/Volumes/SnowLeopardHDD/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/IOKit.framework/Headers/hid/IOHIDKeys.h
+c000000004CC3EAB8000000000000394F
+t1287908024
+s14671
+
+N/Volumes/SnowLeopardHDD/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/IOKit.framework/Headers/hid/IOHIDManager.h
+c000000004CC3E9840000000000003E8C
+t1287907716
+s16012
+
+N/Volumes/SnowLeopardHDD/Developer/SDKs/MacOSX10.6.sdk/usr/include/locale.h
+c000000004BBD2CE900000000000008F0
+t1270689001
+s2288
+
+N/Volumes/SnowLeopardHDD/Developer/SDKs/MacOSX10.6.sdk/usr/include/pthread.h
+c000000004BBD2CE900000000000038F0
+t1270689001
+s14576
+
+N/Volumes/SnowLeopardHDD/Developer/SDKs/MacOSX10.6.sdk/usr/include/sys/time.h
+c000000004CC3DE680000000000001E17
+t1287904872
+s7703
+
+N/Volumes/SnowLeopardHDD/Developer/SDKs/MacOSX10.6.sdk/usr/include/unistd.h
+c000000004BBD2CE9000000000000563E
+t1270689001
+s22078
+
+N/Volumes/SnowLeopardHDD/Developer/SDKs/MacOSX10.6.sdk/usr/include/wchar.h
+c000000004BBD2CE900000000000025DA
+t1270689001
+s9690
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies393216371#393216372#0(0"0(0#1#0"17235254528#0"0#
+
+CCompileC build/HidApi.build/Release/HidApi.build/Objects-normal/i386/hidapi.o /Users/mike/Desktop/Proyectos/Xcode/HidApi/hidapi.c normal i386 c com.apple.compilers.gcc.4_2
+s393216372.270642
+e393216373.735282
+r1
+xCompileC
+xbuild/HidApi.build/Release/HidApi.build/Objects-normal/i386/hidapi.o
+x/Users/mike/Desktop/Proyectos/Xcode/HidApi/hidapi.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@59"Compile /Users/mike/Desktop/Proyectos/Xcode/HidApi/hidapi.c393216372#393216373#0(0"0(0#0#51"/Users/mike/Desktop/Proyectos/Xcode/HidApi/hidapi.c4317974528#1339"    cd /Users/mike/Desktop/Proyectos/Xcode/HidApi    setenv LANG en_US.US-ASCII    /Volumes/SnowLeopardHDD/Developer/usr/bin/gcc-4.2 -x c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -Wreturn-type -Wunused-variable -isysroot /Volumes/SnowLeopardHDD/Developer/SDKs/MacOSX10.6.sdk -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/mike/Desktop/Proyectos/Xcode/HidApi/build/HidApi.build/Release/HidApi.build/HidApi-generated-files.hmap -I/Users/mike/Desktop/Proyectos/Xcode/HidApi/build/HidApi.build/Release/HidApi.build/HidApi-own-target-headers.hmap -I/Users/mike/Desktop/Proyectos/Xcode/HidApi/build/HidApi.build/Release/HidApi.build/HidApi-all-target-headers.hmap -iquote /Users/mike/Desktop/Proyectos/Xcode/HidApi/build/HidApi.build/Release/HidApi.build/HidApi-project-headers.hmap -F/Users/mike/Desktop/Proyectos/Xcode/HidApi/build/Release -I/Users/mike/Desktop/Proyectos/Xcode/HidApi/build/Release/include -I/Users/mike/Desktop/Proyectos/Xcode/HidApi/build/HidApi.build/Release/HidApi.build/DerivedSources/i386 -I/Users/mike/Desktop/Proyectos/Xcode/HidApi/build/HidApi.build/Release/HidApi.build/DerivedSources -c /Users/mike/Desktop/Proyectos/Xcode/HidApi/hidapi.c -o /Users/mike/Desktop/Proyectos/Xcode/HidApi/build/HidApi.build/Release/HidApi.build/Objects-normal/i386/hidapi.o0#
+
+CCompileC build/HidApi.build/Release/HidApi.build/Objects-normal/x86_64/hidapi.o /Users/mike/Desktop/Proyectos/Xcode/HidApi/hidapi.c normal x86_64 c com.apple.compilers.gcc.4_2
+s393216372.246624
+e393216373.736374
+r1
+xCompileC
+xbuild/HidApi.build/Release/HidApi.build/Objects-normal/x86_64/hidapi.o
+x/Users/mike/Desktop/Proyectos/Xcode/HidApi/hidapi.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@59"Compile /Users/mike/Desktop/Proyectos/Xcode/HidApi/hidapi.c393216372#393216373#0(0"0(0#0#51"/Users/mike/Desktop/Proyectos/Xcode/HidApi/hidapi.c17187326464#1345"    cd /Users/mike/Desktop/Proyectos/Xcode/HidApi    setenv LANG en_US.US-ASCII    /Volumes/SnowLeopardHDD/Developer/usr/bin/gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -Wreturn-type -Wunused-variable -isysroot /Volumes/SnowLeopardHDD/Developer/SDKs/MacOSX10.6.sdk -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/mike/Desktop/Proyectos/Xcode/HidApi/build/HidApi.build/Release/HidApi.build/HidApi-generated-files.hmap -I/Users/mike/Desktop/Proyectos/Xcode/HidApi/build/HidApi.build/Release/HidApi.build/HidApi-own-target-headers.hmap -I/Users/mike/Desktop/Proyectos/Xcode/HidApi/build/HidApi.build/Release/HidApi.build/HidApi-all-target-headers.hmap -iquote /Users/mike/Desktop/Proyectos/Xcode/HidApi/build/HidApi.build/Release/HidApi.build/HidApi-project-headers.hmap -F/Users/mike/Desktop/Proyectos/Xcode/HidApi/build/Release -I/Users/mike/Desktop/Proyectos/Xcode/HidApi/build/Release/include -I/Users/mike/Desktop/Proyectos/Xcode/HidApi/build/HidApi.build/Release/HidApi.build/DerivedSources/x86_64 -I/Users/mike/Desktop/Proyectos/Xcode/HidApi/build/HidApi.build/Release/HidApi.build/DerivedSources -c /Users/mike/Desktop/Proyectos/Xcode/HidApi/hidapi.c -o /Users/mike/Desktop/Proyectos/Xcode/HidApi/build/HidApi.build/Release/HidApi.build/Objects-normal/x86_64/hidapi.o0#
+
+CCreateUniversalBinary /Users/mike/Desktop/Proyectos/Xcode/HidApi/build/Release/libHidApi.dylib normal "x86_64 i386"
+r0
+
+CGenerateDSYMFile /Users/mike/Desktop/Proyectos/Xcode/HidApi/build/Release/libHidApi.dylib.dSYM /Users/mike/Desktop/Proyectos/Xcode/HidApi/build/Release/libHidApi.dylib
+r0
+
+CLd /Users/mike/Desktop/Proyectos/Xcode/HidApi/build/HidApi.build/Release/HidApi.build/Objects-normal/i386/libHidApi.dylib normal i386
+s393216373.735383
+e393216374.923477
+r0
+xLd
+x/Users/mike/Desktop/Proyectos/Xcode/HidApi/build/HidApi.build/Release/HidApi.build/Objects-normal/i386/libHidApi.dylib
+xnormal
+xi386
+old: warning: directory '/Users/mike/Desktop/Proyectos/Xcode/HidApi/build/Release' following -L not found
+old: warning: directory '/Users/mike/Desktop/Proyectos/Xcode/HidApi/build/Release' following -F not found
+oUndefined symbols:
+o  "_CFRelease", referenced from:
+o      _free_hid_device in hidapi.o
+o      _free_hid_device in hidapi.o
+o      _hid_exit in hidapi.o
+o      _hid_open_path in hidapi.o
+o      _hid_open_path in hidapi.o
+o      _hid_enumerate in hidapi.o
+o  "_CFStringCreateWithCString", referenced from:
+o      _hid_open_path in hidapi.o
+o  "_IOHIDManagerRegisterDeviceRemovalCallback", referenced from:
+o      _hid_open_path in hidapi.o
+o      _hid_close in hidapi.o
+o  "_CFRunLoopGetCurrent", referenced from:
+o      _read_thread in hidapi.o
+o      _read_thread in hidapi.o
+o      _read_thread in hidapi.o
+o      _hid_init in hidapi.o
+o  "_kCFAllocatorDefault", referenced from:
+o      _kCFAllocatorDefault$non_lazy_ptr in hidapi.o
+o     (maybe you meant: _kCFAllocatorDefault$non_lazy_ptr)
+o  "_IOHIDDeviceUnscheduleFromRunLoop", referenced from:
+o      _hid_close in hidapi.o
+o  "_CFRunLoopGetMain", referenced from:
+o      _hid_close in hidapi.o
+o  "_IOHIDManagerSetDeviceMatching", referenced from:
+o      _hid_init in hidapi.o
+o  "_kCFRunLoopDefaultMode", referenced from:
+o      _kCFRunLoopDefaultMode$non_lazy_ptr in hidapi.o
+o     (maybe you meant: _kCFRunLoopDefaultMode$non_lazy_ptr)
+o  "_IOHIDDeviceClose", referenced from:
+o      _read_thread in hidapi.o
+o      _hid_close in hidapi.o
+o  "_CFGetTypeID", referenced from:
+o      _get_int_property in hidapi.o
+o  "_IOHIDDeviceGetReport", referenced from:
+o      _hid_get_feature_report in hidapi.o
+o  "_IOHIDDeviceOpen", referenced from:
+o      _hid_open_path in hidapi.o
+o  "_CFSetGetCount", referenced from:
+o      _hid_open_path in hidapi.o
+o      _hid_enumerate in hidapi.o
+o  "_CFRunLoopSourceCreate", referenced from:
+o      _read_thread in hidapi.o
+o  "_CFNumberGetValue", referenced from:
+o      _get_int_property in hidapi.o
+o  "_IOHIDManagerCopyDevices", referenced from:
+o      _hid_open_path in hidapi.o
+o      _hid_enumerate in hidapi.o
+o  "_IOHIDDeviceRegisterInputReportCallback", referenced from:
+o      _hid_open_path in hidapi.o
+o      _hid_close in hidapi.o
+o  "___CFConstantStringClassReference", referenced from:
+o      cfstring=Product in hidapi.o
+o      cfstring=SerialNumber in hidapi.o
+o      cfstring=Transport in hidapi.o
+o      cfstring=VendorID in hidapi.o
+o      cfstring=ProductID in hidapi.o
+o      cfstring=MaxInputReportSize in hidapi.o
+o      cfstring=Manufacturer in hidapi.o
+o      cfstring=PrimaryUsagePage in hidapi.o
+o      cfstring=PrimaryUsage in hidapi.o
+o      cfstring=VersionNumber in hidapi.o
+o  "_CFSetGetValues", referenced from:
+o      _hid_open_path in hidapi.o
+o      _hid_enumerate in hidapi.o
+o  "_IOHIDManagerCreate", referenced from:
+o      _hid_init in hidapi.o
+o  "_CFStringGetBytes", referenced from:
+o      _get_string_property in hidapi.o
+o      _make_path in hidapi.o
+o  "_CFRunLoopStop", referenced from:
+o      _perform_signal_callback in hidapi.o
+o      _hid_device_removal_callback in hidapi.o
+o  "_IOHIDDeviceGetProperty", referenced from:
+o      _get_string_property in hidapi.o
+o      _get_int_property in hidapi.o
+o      _make_path in hidapi.o
+o  "_IOHIDManagerScheduleWithRunLoop", referenced from:
+o      _hid_init in hidapi.o
+o  "_IOHIDDeviceScheduleWithRunLoop", referenced from:
+o      _read_thread in hidapi.o
+o      _hid_close in hidapi.o
+o  "_IOHIDManagerClose", referenced from:
+o      _hid_exit in hidapi.o
+o  "_CFRunLoopWakeUp", referenced from:
+o      _hid_close in hidapi.o
+o  "_IOHIDManagerOpen", referenced from:
+o      _hid_init in hidapi.o
+o  "_CFNumberGetTypeID", referenced from:
+o      _get_int_property in hidapi.o
+o  "_CFRunLoopAddSource", referenced from:
+o      _read_thread in hidapi.o
+o  "_CFRunLoopRunInMode", referenced from:
+o      _read_thread in hidapi.o
+o  "_IOHIDDeviceSetReport", referenced from:
+o      _hid_send_feature_report in hidapi.o
+o      _hid_write in hidapi.o
+o  "_CFRunLoopSourceSignal", referenced from:
+o      _hid_close in hidapi.o
+old: symbol(s) not found
+ocollect2: ld returned 1 exit status
+lSLF07#2@123"Link /Users/mike/Desktop/Proyectos/Xcode/HidApi/build/HidApi.build/Release/HidApi.build/Objects-normal/i386/libHidApi.dylib393216373#393216374#0(4086"ld: warning: directory '/Users/mike/Desktop/Proyectos/Xcode/HidApi/build/Release' following -L not foundld: warning: directory '/Users/mike/Desktop/Proyectos/Xcode/HidApi/build/Release' following -F not foundUndefined symbols:  "_CFRelease", referenced from:      _free_hid_device in hidapi.o      _free_hid_device in hidapi.o      _hid_exit in hidapi.o      _hid_open_path in hidapi.o      _hid_open_path in hidapi.o      _hid_enumerate in hidapi.o  "_CFStringCreateWithCString", referenced from:      _hid_open_path in hidapi.o  "_IOHIDManagerRegisterDeviceRemovalCallback", referenced from:      _hid_open_path in hidapi.o      _hid_close in hidapi.o  "_CFRunLoopGetCurrent", referenced from:      _read_thread in hidapi.o      _read_thread in hidapi.o      _read_thread in hidapi.o      _hid_init in hidapi.o  "_kCFAllocatorDefault", referenced from:      _kCFAllocatorDefault$non_lazy_ptr in hidapi.o     (maybe you meant: _kCFAllocatorDefault$non_lazy_ptr)  "_IOHIDDeviceUnscheduleFromRunLoop", referenced from:      _hid_close in hidapi.o  "_CFRunLoopGetMain", referenced from:      _hid_close in hidapi.o  "_IOHIDManagerSetDeviceMatching", referenced from:      _hid_init in hidapi.o  "_kCFRunLoopDefaultMode", referenced from:      _kCFRunLoopDefaultMode$non_lazy_ptr in hidapi.o     (maybe you meant: _kCFRunLoopDefaultMode$non_lazy_ptr)  "_IOHIDDeviceClose", referenced from:      _read_thread in hidapi.o      _hid_close in hidapi.o  "_CFGetTypeID", referenced from:      _get_int_property in hidapi.o  "_IOHIDDeviceGetReport", referenced from:      _hid_get_feature_report in hidapi.o  "_IOHIDDeviceOpen", referenced from:      _hid_open_path in hidapi.o  "_CFSetGetCount", referenced from:      _hid_open_path in hidapi.o      _hid_enumerate in hidapi.o  "_CFRunLoopSourceCreate", referenced from:      _read_thread in hidapi.o  "_CFNumberGetValue", referenced from:      _get_int_property in hidapi.o  "_IOHIDManagerCopyDevices", referenced from:      _hid_open_path in hidapi.o      _hid_enumerate in hidapi.o  "_IOHIDDeviceRegisterInputReportCallback", referenced from:      _hid_open_path in hidapi.o      _hid_close in hidapi.o  "___CFConstantStringClassReference", referenced from:      cfstring=Product in hidapi.o      cfstring=SerialNumber in hidapi.o      cfstring=Transport in hidapi.o      cfstring=VendorID in hidapi.o      cfstring=ProductID in hidapi.o      cfstring=MaxInputReportSize in hidapi.o      cfstring=Manufacturer in hidapi.o      cfstring=PrimaryUsagePage in hidapi.o      cfstring=PrimaryUsage in hidapi.o      cfstring=VersionNumber in hidapi.o  "_CFSetGetValues", referenced from:      _hid_open_path in hidapi.o      _hid_enumerate in hidapi.o  "_IOHIDManagerCreate", referenced from:      _hid_init in hidapi.o  "_CFStringGetBytes", referenced from:      _get_string_property in hidapi.o      _make_path in hidapi.o  "_CFRunLoopStop", referenced from:      _perform_signal_callback in hidapi.o      _hid_device_removal_callback in hidapi.o  "_IOHIDDeviceGetProperty", referenced from:      _get_string_property in hidapi.o      _get_int_property in hidapi.o      _make_path in hidapi.o  "_IOHIDManagerScheduleWithRunLoop", referenced from:      _hid_init in hidapi.o  "_IOHIDDeviceScheduleWithRunLoop", referenced from:      _read_thread in hidapi.o      _hid_close in hidapi.o  "_IOHIDManagerClose", referenced from:      _hid_exit in hidapi.o  "_CFRunLoopWakeUp", referenced from:      _hid_close in hidapi.o  "_IOHIDManagerOpen", referenced from:      _hid_init in hidapi.o  "_CFNumberGetTypeID", referenced from:      _get_int_property in hidapi.o  "_CFRunLoopAddSource", referenced from:      _read_thread in hidapi.o  "_CFRunLoopRunInMode", referenced from:      _read_thread in hidapi.o  "_IOHIDDeviceSetReport", referenced from:      _hid_send_feature_report in hidapi.o      _hid_write in hidapi.o  "_CFRunLoopSourceSignal", referenced from:      _hid_close in hidapi.old: symbol(s) not foundcollect2: ld returned 1 exit status103(22@91"Directory '/Users/mike/Desktop/Proyectos/Xcode/HidApi/build/Release' following -L not found393216374#0#105#0(6@0"393216374#0#0#0#0#0"0(22@91"Directory '/Users/mike/Desktop/Proyectos/Xcode/HidApi/build/Release' following -F not found393216374#105#105#0(6@0"393216374#0#0#0#0#0"0(4@30""_CFRelease", referenced from:393216374#229#33#0(6@0"393216374#0#0#0#0#0"0(13@28"_free_hid_device in hidapi.o393216374#262#35#0(6@0"393216374#0#0#0#0#0"0(13@28"_free_hid_device in hidapi.o393216374#297#35#0(6@0"393216374#0#0#0#0#0"0(13@21"_hid_exit in hidapi.o393216374#332#28#0(6@0"393216374#0#0#0#0#0"0(13@26"_hid_open_path in hidapi.o393216374#360#33#0(6@0"393216374#0#0#0#0#0"0(13@26"_hid_open_path in hidapi.o393216374#393#33#0(6@0"393216374#0#0#0#0#0"0(13@26"_hid_enumerate in hidapi.o393216374#426#33#0(6@0"393216374#0#0#0#0#0"0(4@46""_CFStringCreateWithCString", referenced from:393216374#459#49#0(6@0"393216374#0#0#0#0#0"0(13@26"_hid_open_path in hidapi.o393216374#508#33#0(6@0"393216374#0#0#0#0#0"0(4@62""_IOHIDManagerRegisterDeviceRemovalCallback", referenced from:393216374#541#65#0(6@0"393216374#0#0#0#0#0"0(13@26"_hid_open_path in hidapi.o393216374#606#33#0(6@0"393216374#0#0#0#0#0"0(13@22"_hid_close in hidapi.o393216374#639#29#0(6@0"393216374#0#0#0#0#0"0(4@40""_CFRunLoopGetCurrent", referenced from:393216374#668#43#0(6@0"393216374#0#0#0#0#0"0(13@24"_read_thread in hidapi.o393216374#711#31#0(6@0"393216374#0#0#0#0#0"0(13@24"_read_thread in hidapi.o393216374#742#31#0(6@0"393216374#0#0#0#0#0"0(13@24"_read_thread in hidapi.o393216374#773#31#0(6@0"393216374#0#0#0#0#0"0(13@21"_hid_init in hidapi.o393216374#804#28#0(6@0"393216374#0#0#0#0#0"0(4@40""_kCFAllocatorDefault", referenced from:393216374#832#43#0(6@0"393216374#0#0#0#0#0"0(13@45"_kCFAllocatorDefault$non_lazy_ptr in hidapi.o393216374#875#52#0(6@0"393216374#0#0#0#0#0"0(13@52"(maybe you meant: _kCFAllocatorDefault$non_lazy_ptr)393216374#927#58#0(6@0"393216374#0#0#0#0#0"0(4@53""_IOHIDDeviceUnscheduleFromRunLoop", referenced from:393216374#985#56#0(6@0"393216374#0#0#0#0#0"0(13@22"_hid_close in hidapi.o393216374#1041#29#0(6@0"393216374#0#0#0#0#0"0(4@37""_CFRunLoopGetMain", referenced from:393216374#1070#40#0(6@0"393216374#0#0#0#0#0"0(13@22"_hid_close in hidapi.o393216374#1110#29#0(6@0"393216374#0#0#0#0#0"0(4@50""_IOHIDManagerSetDeviceMatching", referenced from:393216374#1139#53#0(6@0"393216374#0#0#0#0#0"0(13@21"_hid_init in hidapi.o393216374#1192#28#0(6@0"393216374#0#0#0#0#0"0(4@42""_kCFRunLoopDefaultMode", referenced from:393216374#1220#45#0(6@0"393216374#0#0#0#0#0"0(13@47"_kCFRunLoopDefaultMode$non_lazy_ptr in hidapi.o393216374#1265#54#0(6@0"393216374#0#0#0#0#0"0(13@54"(maybe you meant: _kCFRunLoopDefaultMode$non_lazy_ptr)393216374#1319#60#0(6@0"393216374#0#0#0#0#0"0(4@37""_IOHIDDeviceClose", referenced from:393216374#1379#40#0(6@0"393216374#0#0#0#0#0"0(13@24"_read_thread in hidapi.o393216374#1419#31#0(6@0"393216374#0#0#0#0#0"0(13@22"_hid_close in hidapi.o393216374#1450#29#0(6@0"393216374#0#0#0#0#0"0(4@32""_CFGetTypeID", referenced from:393216374#1479#35#0(6@0"393216374#0#0#0#0#0"0(13@29"_get_int_property in hidapi.o393216374#1514#36#0(6@0"393216374#0#0#0#0#0"0(4@41""_IOHIDDeviceGetReport", referenced from:393216374#1550#44#0(6@0"393216374#0#0#0#0#0"0(13@35"_hid_get_feature_report in hidapi.o393216374#1594#42#0(6@0"393216374#0#0#0#0#0"0(4@36""_IOHIDDeviceOpen", referenced from:393216374#1636#39#0(6@0"393216374#0#0#0#0#0"0(13@26"_hid_open_path in hidapi.o393216374#1675#33#0(6@0"393216374#0#0#0#0#0"0(4@34""_CFSetGetCount", referenced from:393216374#1708#37#0(6@0"393216374#0#0#0#0#0"0(13@26"_hid_open_path in hidapi.o393216374#1745#33#0(6@0"393216374#0#0#0#0#0"0(13@26"_hid_enumerate in hidapi.o393216374#1778#33#0(6@0"393216374#0#0#0#0#0"0(4@42""_CFRunLoopSourceCreate", referenced from:393216374#1811#45#0(6@0"393216374#0#0#0#0#0"0(13@24"_read_thread in hidapi.o393216374#1856#31#0(6@0"393216374#0#0#0#0#0"0(4@37""_CFNumberGetValue", referenced from:393216374#1887#40#0(6@0"393216374#0#0#0#0#0"0(13@29"_get_int_property in hidapi.o393216374#1927#36#0(6@0"393216374#0#0#0#0#0"0(4@44""_IOHIDManagerCopyDevices", referenced from:393216374#1963#47#0(6@0"393216374#0#0#0#0#0"0(13@26"_hid_open_path in hidapi.o393216374#2010#33#0(6@0"393216374#0#0#0#0#0"0(13@26"_hid_enumerate in hidapi.o393216374#2043#33#0(6@0"393216374#0#0#0#0#0"0(4@59""_IOHIDDeviceRegisterInputReportCallback", referenced from:393216374#2076#62#0(6@0"393216374#0#0#0#0#0"0(13@26"_hid_open_path in hidapi.o393216374#2138#33#0(6@0"393216374#0#0#0#0#0"0(13@22"_hid_close in hidapi.o393216374#2171#29#0(6@0"393216374#0#0#0#0#0"0(4@53""___CFConstantStringClassReference", referenced from:393216374#2200#56#0(6@0"393216374#0#0#0#0#0"0(13@28"Cfstring=Product in hidapi.o393216374#2256#35#0(6@0"393216374#0#0#0#0#0"0(13@33"Cfstring=SerialNumber in hidapi.o393216374#2291#40#0(6@0"393216374#0#0#0#0#0"0(13@30"Cfstring=Transport in hidapi.o393216374#2331#37#0(6@0"393216374#0#0#0#0#0"0(13@29"Cfstring=VendorID in hidapi.o393216374#2368#36#0(6@0"393216374#0#0#0#0#0"0(13@30"Cfstring=ProductID in hidapi.o393216374#2404#37#0(6@0"393216374#0#0#0#0#0"0(13@39"Cfstring=MaxInputReportSize in hidapi.o393216374#2441#46#0(6@0"393216374#0#0#0#0#0"0(13@33"Cfstring=Manufacturer in hidapi.o393216374#2487#40#0(6@0"393216374#0#0#0#0#0"0(13@37"Cfstring=PrimaryUsagePage in hidapi.o393216374#2527#44#0(6@0"393216374#0#0#0#0#0"0(13@33"Cfstring=PrimaryUsage in hidapi.o393216374#2571#40#0(6@0"393216374#0#0#0#0#0"0(13@34"Cfstring=VersionNumber in hidapi.o393216374#2611#41#0(6@0"393216374#0#0#0#0#0"0(4@35""_CFSetGetValues", referenced from:393216374#2652#38#0(6@0"393216374#0#0#0#0#0"0(13@26"_hid_open_path in hidapi.o393216374#2690#33#0(6@0"393216374#0#0#0#0#0"0(13@26"_hid_enumerate in hidapi.o393216374#2723#33#0(6@0"393216374#0#0#0#0#0"0(4@39""_IOHIDManagerCreate", referenced from:393216374#2756#42#0(6@0"393216374#0#0#0#0#0"0(13@21"_hid_init in hidapi.o393216374#2798#28#0(6@0"393216374#0#0#0#0#0"0(4@37""_CFStringGetBytes", referenced from:393216374#2826#40#0(6@0"393216374#0#0#0#0#0"0(13@32"_get_string_property in hidapi.o393216374#2866#39#0(6@0"393216374#0#0#0#0#0"0(13@22"_make_path in hidapi.o393216374#2905#29#0(6@0"393216374#0#0#0#0#0"0(4@34""_CFRunLoopStop", referenced from:393216374#2934#37#0(6@0"393216374#0#0#0#0#0"0(13@36"_perform_signal_callback in hidapi.o393216374#2971#43#0(6@0"393216374#0#0#0#0#0"0(13@40"_hid_device_removal_callback in hidapi.o393216374#3014#47#0(6@0"393216374#0#0#0#0#0"0(4@43""_IOHIDDeviceGetProperty", referenced from:393216374#3061#46#0(6@0"393216374#0#0#0#0#0"0(13@32"_get_string_property in hidapi.o393216374#3107#39#0(6@0"393216374#0#0#0#0#0"0(13@29"_get_int_property in hidapi.o393216374#3146#36#0(6@0"393216374#0#0#0#0#0"0(13@22"_make_path in hidapi.o393216374#3182#29#0(6@0"393216374#0#0#0#0#0"0(4@52""_IOHIDManagerScheduleWithRunLoop", referenced from:393216374#3211#55#0(6@0"393216374#0#0#0#0#0"0(13@21"_hid_init in hidapi.o393216374#3266#28#0(6@0"393216374#0#0#0#0#0"0(4@51""_IOHIDDeviceScheduleWithRunLoop", referenced from:393216374#3294#54#0(6@0"393216374#0#0#0#0#0"0(13@24"_read_thread in hidapi.o393216374#3348#31#0(6@0"393216374#0#0#0#0#0"0(13@22"_hid_close in hidapi.o393216374#3379#29#0(6@0"393216374#0#0#0#0#0"0(4@38""_IOHIDManagerClose", referenced from:393216374#3408#41#0(6@0"393216374#0#0#0#0#0"0(13@21"_hid_exit in hidapi.o393216374#3449#28#0(6@0"393216374#0#0#0#0#0"0(4@36""_CFRunLoopWakeUp", referenced from:393216374#3477#39#0(6@0"393216374#0#0#0#0#0"0(13@22"_hid_close in hidapi.o393216374#3516#29#0(6@0"393216374#0#0#0#0#0"0(4@37""_IOHIDManagerOpen", referenced from:393216374#3545#40#0(6@0"393216374#0#0#0#0#0"0(13@21"_hid_init in hidapi.o393216374#3585#28#0(6@0"393216374#0#0#0#0#0"0(4@38""_CFNumberGetTypeID", referenced from:393216374#3613#41#0(6@0"393216374#0#0#0#0#0"0(13@29"_get_int_property in hidapi.o393216374#3654#36#0(6@0"393216374#0#0#0#0#0"0(4@39""_CFRunLoopAddSource", referenced from:393216374#3690#42#0(6@0"393216374#0#0#0#0#0"0(13@24"_read_thread in hidapi.o393216374#3732#31#0(6@0"393216374#0#0#0#0#0"0(4@39""_CFRunLoopRunInMode", referenced from:393216374#3763#42#0(6@0"393216374#0#0#0#0#0"0(13@24"_read_thread in hidapi.o393216374#3805#31#0(6@0"393216374#0#0#0#0#0"0(4@41""_IOHIDDeviceSetReport", referenced from:393216374#3836#44#0(6@0"393216374#0#0#0#0#0"0(13@36"_hid_send_feature_report in hidapi.o393216374#3880#43#0(6@0"393216374#0#0#0#0#0"0(13@22"_hid_write in hidapi.o393216374#3923#29#0(6@0"393216374#0#0#0#0#0"0(4@42""_CFRunLoopSourceSignal", referenced from:393216374#3952#45#0(6@0"393216374#0#0#0#0#0"0(13@22"_hid_close in hidapi.o393216374#3997#29#0(6@0"393216374#0#0#0#0#0"0(13@19"Symbol(s) not found393216374#4026#24#0(6@0"393216374#0#0#0#0#0"0(13@35"Collect2: ld returned 1 exit status393216374#4050#36#0(6@0"393216374#0#0#0#0#0"0(0#0#0"4317974528#735"    cd /Users/mike/Desktop/Proyectos/Xcode/HidApi    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Volumes/SnowLeopardHDD/Developer/usr/bin/gcc-4.2 -arch i386 -dynamiclib -isysroot /Volumes/SnowLeopardHDD/Developer/SDKs/MacOSX10.6.sdk -L/Users/mike/Desktop/Proyectos/Xcode/HidApi/build/Release -F/Users/mike/Desktop/Proyectos/Xcode/HidApi/build/Release -filelist /Users/mike/Desktop/Proyectos/Xcode/HidApi/build/HidApi.build/Release/HidApi.build/Objects-normal/i386/HidApi.LinkFileList -install_name /usr/local/lib/libHidApi.dylib -mmacosx-version-min=10.6 -single_module -compatibility_version 1 -current_version 1 -o /Users/mike/Desktop/Proyectos/Xcode/HidApi/build/HidApi.build/Release/HidApi.build/Objects-normal/i386/libHidApi.dylib1#
+
+CLd /Users/mike/Desktop/Proyectos/Xcode/HidApi/build/HidApi.build/Release/HidApi.build/Objects-normal/x86_64/libHidApi.dylib normal x86_64
+s393216373.736435
+e393216374.923195
+r0
+xLd
+x/Users/mike/Desktop/Proyectos/Xcode/HidApi/build/HidApi.build/Release/HidApi.build/Objects-normal/x86_64/libHidApi.dylib
+xnormal
+xx86_64
+old: warning: directory '/Users/mike/Desktop/Proyectos/Xcode/HidApi/build/Release' following -L not found
+old: warning: directory '/Users/mike/Desktop/Proyectos/Xcode/HidApi/build/Release' following -F not found
+oUndefined symbols:
+o  "_CFRelease", referenced from:
+o      _free_hid_device in hidapi.o
+o      _free_hid_device in hidapi.o
+o      _hid_exit in hidapi.o
+o      _hid_open_path in hidapi.o
+o      _hid_open_path in hidapi.o
+o      _hid_enumerate in hidapi.o
+o  "_CFStringCreateWithCString", referenced from:
+o      _hid_open_path in hidapi.o
+o  "_IOHIDManagerRegisterDeviceRemovalCallback", referenced from:
+o      _hid_open_path in hidapi.o
+o      _hid_close in hidapi.o
+o  "_CFRunLoopGetCurrent", referenced from:
+o      _read_thread in hidapi.o
+o      _read_thread in hidapi.o
+o      _read_thread in hidapi.o
+o      _hid_init in hidapi.o
+o  "_kCFAllocatorDefault", referenced from:
+o      _read_thread in hidapi.o
+o      _hid_init in hidapi.o
+o  "_IOHIDDeviceUnscheduleFromRunLoop", referenced from:
+o      _hid_close in hidapi.o
+o  "_CFRunLoopGetMain", referenced from:
+o      _hid_close in hidapi.o
+o  "_IOHIDManagerSetDeviceMatching", referenced from:
+o      _hid_init in hidapi.o
+o  "_kCFRunLoopDefaultMode", referenced from:
+o      _hid_init in hidapi.o
+o      _hid_close in hidapi.o
+o  "_IOHIDDeviceClose", referenced from:
+o      _read_thread in hidapi.o
+o      _hid_close in hidapi.o
+o  "_CFGetTypeID", referenced from:
+o      _get_int_property in hidapi.o
+o  "_IOHIDDeviceGetReport", referenced from:
+o      _hid_get_feature_report in hidapi.o
+o  "_IOHIDDeviceOpen", referenced from:
+o      _hid_open_path in hidapi.o
+o  "_CFSetGetCount", referenced from:
+o      _hid_open_path in hidapi.o
+o      _hid_enumerate in hidapi.o
+o  "_CFRunLoopSourceCreate", referenced from:
+o      _read_thread in hidapi.o
+o  "_CFNumberGetValue", referenced from:
+o      _get_int_property in hidapi.o
+o  "_IOHIDManagerCopyDevices", referenced from:
+o      _hid_open_path in hidapi.o
+o      _hid_enumerate in hidapi.o
+o  "_IOHIDDeviceRegisterInputReportCallback", referenced from:
+o      _hid_open_path in hidapi.o
+o      _hid_close in hidapi.o
+o  "___CFConstantStringClassReference", referenced from:
+o      cfstring=Product in hidapi.o
+o      cfstring=SerialNumber in hidapi.o
+o      cfstring=Transport in hidapi.o
+o      cfstring=VendorID in hidapi.o
+o      cfstring=ProductID in hidapi.o
+o      cfstring=MaxInputReportSize in hidapi.o
+o      cfstring=Manufacturer in hidapi.o
+o      cfstring=PrimaryUsagePage in hidapi.o
+o      cfstring=PrimaryUsage in hidapi.o
+o      cfstring=VersionNumber in hidapi.o
+o  "_CFSetGetValues", referenced from:
+o      _hid_open_path in hidapi.o
+o      _hid_enumerate in hidapi.o
+o  "_IOHIDManagerCreate", referenced from:
+o      _hid_init in hidapi.o
+o  "_CFStringGetBytes", referenced from:
+o      _get_string_property in hidapi.o
+o      _make_path in hidapi.o
+o  "_CFRunLoopStop", referenced from:
+o      _perform_signal_callback in hidapi.o
+o      _hid_device_removal_callback in hidapi.o
+o  "_IOHIDDeviceGetProperty", referenced from:
+o      _get_string_property in hidapi.o
+o      _get_int_property in hidapi.o
+o      _make_path in hidapi.o
+o  "_IOHIDManagerScheduleWithRunLoop", referenced from:
+o      _hid_init in hidapi.o
+o  "_IOHIDDeviceScheduleWithRunLoop", referenced from:
+o      _read_thread in hidapi.o
+o      _hid_close in hidapi.o
+o  "_IOHIDManagerClose", referenced from:
+o      _hid_exit in hidapi.o
+o  "_CFRunLoopWakeUp", referenced from:
+o      _hid_close in hidapi.o
+o  "_IOHIDManagerOpen", referenced from:
+o      _hid_init in hidapi.o
+o  "_CFNumberGetTypeID", referenced from:
+o      _get_int_property in hidapi.o
+o  "_CFRunLoopAddSource", referenced from:
+o      _read_thread in hidapi.o
+o  "_CFRunLoopRunInMode", referenced from:
+o      _read_thread in hidapi.o
+o  "_IOHIDDeviceSetReport", referenced from:
+o      _hid_send_feature_report in hidapi.o
+o      _hid_write in hidapi.o
+o  "_CFRunLoopSourceSignal", referenced from:
+o      _hid_close in hidapi.o
+old: symbol(s) not found
+ocollect2: ld returned 1 exit status
+lSLF07#2@125"Link /Users/mike/Desktop/Proyectos/Xcode/HidApi/build/HidApi.build/Release/HidApi.build/Objects-normal/x86_64/libHidApi.dylib393216373#393216374#0(3978"ld: warning: directory '/Users/mike/Desktop/Proyectos/Xcode/HidApi/build/Release' following -L not foundld: warning: directory '/Users/mike/Desktop/Proyectos/Xcode/HidApi/build/Release' following -F not foundUndefined symbols:  "_CFRelease", referenced from:      _free_hid_device in hidapi.o      _free_hid_device in hidapi.o      _hid_exit in hidapi.o      _hid_open_path in hidapi.o      _hid_open_path in hidapi.o      _hid_enumerate in hidapi.o  "_CFStringCreateWithCString", referenced from:      _hid_open_path in hidapi.o  "_IOHIDManagerRegisterDeviceRemovalCallback", referenced from:      _hid_open_path in hidapi.o      _hid_close in hidapi.o  "_CFRunLoopGetCurrent", referenced from:      _read_thread in hidapi.o      _read_thread in hidapi.o      _read_thread in hidapi.o      _hid_init in hidapi.o  "_kCFAllocatorDefault", referenced from:      _read_thread in hidapi.o      _hid_init in hidapi.o  "_IOHIDDeviceUnscheduleFromRunLoop", referenced from:      _hid_close in hidapi.o  "_CFRunLoopGetMain", referenced from:      _hid_close in hidapi.o  "_IOHIDManagerSetDeviceMatching", referenced from:      _hid_init in hidapi.o  "_kCFRunLoopDefaultMode", referenced from:      _hid_init in hidapi.o      _hid_close in hidapi.o  "_IOHIDDeviceClose", referenced from:      _read_thread in hidapi.o      _hid_close in hidapi.o  "_CFGetTypeID", referenced from:      _get_int_property in hidapi.o  "_IOHIDDeviceGetReport", referenced from:      _hid_get_feature_report in hidapi.o  "_IOHIDDeviceOpen", referenced from:      _hid_open_path in hidapi.o  "_CFSetGetCount", referenced from:      _hid_open_path in hidapi.o      _hid_enumerate in hidapi.o  "_CFRunLoopSourceCreate", referenced from:      _read_thread in hidapi.o  "_CFNumberGetValue", referenced from:      _get_int_property in hidapi.o  "_IOHIDManagerCopyDevices", referenced from:      _hid_open_path in hidapi.o      _hid_enumerate in hidapi.o  "_IOHIDDeviceRegisterInputReportCallback", referenced from:      _hid_open_path in hidapi.o      _hid_close in hidapi.o  "___CFConstantStringClassReference", referenced from:      cfstring=Product in hidapi.o      cfstring=SerialNumber in hidapi.o      cfstring=Transport in hidapi.o      cfstring=VendorID in hidapi.o      cfstring=ProductID in hidapi.o      cfstring=MaxInputReportSize in hidapi.o      cfstring=Manufacturer in hidapi.o      cfstring=PrimaryUsagePage in hidapi.o      cfstring=PrimaryUsage in hidapi.o      cfstring=VersionNumber in hidapi.o  "_CFSetGetValues", referenced from:      _hid_open_path in hidapi.o      _hid_enumerate in hidapi.o  "_IOHIDManagerCreate", referenced from:      _hid_init in hidapi.o  "_CFStringGetBytes", referenced from:      _get_string_property in hidapi.o      _make_path in hidapi.o  "_CFRunLoopStop", referenced from:      _perform_signal_callback in hidapi.o      _hid_device_removal_callback in hidapi.o  "_IOHIDDeviceGetProperty", referenced from:      _get_string_property in hidapi.o      _get_int_property in hidapi.o      _make_path in hidapi.o  "_IOHIDManagerScheduleWithRunLoop", referenced from:      _hid_init in hidapi.o  "_IOHIDDeviceScheduleWithRunLoop", referenced from:      _read_thread in hidapi.o      _hid_close in hidapi.o  "_IOHIDManagerClose", referenced from:      _hid_exit in hidapi.o  "_CFRunLoopWakeUp", referenced from:      _hid_close in hidapi.o  "_IOHIDManagerOpen", referenced from:      _hid_init in hidapi.o  "_CFNumberGetTypeID", referenced from:      _get_int_property in hidapi.o  "_CFRunLoopAddSource", referenced from:      _read_thread in hidapi.o  "_CFRunLoopRunInMode", referenced from:      _read_thread in hidapi.o  "_IOHIDDeviceSetReport", referenced from:      _hid_send_feature_report in hidapi.o      _hid_write in hidapi.o  "_CFRunLoopSourceSignal", referenced from:      _hid_close in hidapi.old: symbol(s) not foundcollect2: ld returned 1 exit status103(22@91"Directory '/Users/mike/Desktop/Proyectos/Xcode/HidApi/build/Release' following -L not found393216374#0#105#0(6@0"393216374#0#0#0#0#0"0(22@91"Directory '/Users/mike/Desktop/Proyectos/Xcode/HidApi/build/Release' following -F not found393216374#105#105#0(6@0"393216374#0#0#0#0#0"0(4@30""_CFRelease", referenced from:393216374#229#33#0(6@0"393216374#0#0#0#0#0"0(13@28"_free_hid_device in hidapi.o393216374#262#35#0(6@0"393216374#0#0#0#0#0"0(13@28"_free_hid_device in hidapi.o393216374#297#35#0(6@0"393216374#0#0#0#0#0"0(13@21"_hid_exit in hidapi.o393216374#332#28#0(6@0"393216374#0#0#0#0#0"0(13@26"_hid_open_path in hidapi.o393216374#360#33#0(6@0"393216374#0#0#0#0#0"0(13@26"_hid_open_path in hidapi.o393216374#393#33#0(6@0"393216374#0#0#0#0#0"0(13@26"_hid_enumerate in hidapi.o393216374#426#33#0(6@0"393216374#0#0#0#0#0"0(4@46""_CFStringCreateWithCString", referenced from:393216374#459#49#0(6@0"393216374#0#0#0#0#0"0(13@26"_hid_open_path in hidapi.o393216374#508#33#0(6@0"393216374#0#0#0#0#0"0(4@62""_IOHIDManagerRegisterDeviceRemovalCallback", referenced from:393216374#541#65#0(6@0"393216374#0#0#0#0#0"0(13@26"_hid_open_path in hidapi.o393216374#606#33#0(6@0"393216374#0#0#0#0#0"0(13@22"_hid_close in hidapi.o393216374#639#29#0(6@0"393216374#0#0#0#0#0"0(4@40""_CFRunLoopGetCurrent", referenced from:393216374#668#43#0(6@0"393216374#0#0#0#0#0"0(13@24"_read_thread in hidapi.o393216374#711#31#0(6@0"393216374#0#0#0#0#0"0(13@24"_read_thread in hidapi.o393216374#742#31#0(6@0"393216374#0#0#0#0#0"0(13@24"_read_thread in hidapi.o393216374#773#31#0(6@0"393216374#0#0#0#0#0"0(13@21"_hid_init in hidapi.o393216374#804#28#0(6@0"393216374#0#0#0#0#0"0(4@40""_kCFAllocatorDefault", referenced from:393216374#832#43#0(6@0"393216374#0#0#0#0#0"0(13@24"_read_thread in hidapi.o393216374#875#31#0(6@0"393216374#0#0#0#0#0"0(13@21"_hid_init in hidapi.o393216374#906#28#0(6@0"393216374#0#0#0#0#0"0(4@53""_IOHIDDeviceUnscheduleFromRunLoop", referenced from:393216374#934#56#0(6@0"393216374#0#0#0#0#0"0(13@22"_hid_close in hidapi.o393216374#990#29#0(6@0"393216374#0#0#0#0#0"0(4@37""_CFRunLoopGetMain", referenced from:393216374#1019#40#0(6@0"393216374#0#0#0#0#0"0(13@22"_hid_close in hidapi.o393216374#1059#29#0(6@0"393216374#0#0#0#0#0"0(4@50""_IOHIDManagerSetDeviceMatching", referenced from:393216374#1088#53#0(6@0"393216374#0#0#0#0#0"0(13@21"_hid_init in hidapi.o393216374#1141#28#0(6@0"393216374#0#0#0#0#0"0(4@42""_kCFRunLoopDefaultMode", referenced from:393216374#1169#45#0(6@0"393216374#0#0#0#0#0"0(13@21"_hid_init in hidapi.o393216374#1214#28#0(6@0"393216374#0#0#0#0#0"0(13@22"_hid_close in hidapi.o393216374#1242#29#0(6@0"393216374#0#0#0#0#0"0(4@37""_IOHIDDeviceClose", referenced from:393216374#1271#40#0(6@0"393216374#0#0#0#0#0"0(13@24"_read_thread in hidapi.o393216374#1311#31#0(6@0"393216374#0#0#0#0#0"0(13@22"_hid_close in hidapi.o393216374#1342#29#0(6@0"393216374#0#0#0#0#0"0(4@32""_CFGetTypeID", referenced from:393216374#1371#35#0(6@0"393216374#0#0#0#0#0"0(13@29"_get_int_property in hidapi.o393216374#1406#36#0(6@0"393216374#0#0#0#0#0"0(4@41""_IOHIDDeviceGetReport", referenced from:393216374#1442#44#0(6@0"393216374#0#0#0#0#0"0(13@35"_hid_get_feature_report in hidapi.o393216374#1486#42#0(6@0"393216374#0#0#0#0#0"0(4@36""_IOHIDDeviceOpen", referenced from:393216374#1528#39#0(6@0"393216374#0#0#0#0#0"0(13@26"_hid_open_path in hidapi.o393216374#1567#33#0(6@0"393216374#0#0#0#0#0"0(4@34""_CFSetGetCount", referenced from:393216374#1600#37#0(6@0"393216374#0#0#0#0#0"0(13@26"_hid_open_path in hidapi.o393216374#1637#33#0(6@0"393216374#0#0#0#0#0"0(13@26"_hid_enumerate in hidapi.o393216374#1670#33#0(6@0"393216374#0#0#0#0#0"0(4@42""_CFRunLoopSourceCreate", referenced from:393216374#1703#45#0(6@0"393216374#0#0#0#0#0"0(13@24"_read_thread in hidapi.o393216374#1748#31#0(6@0"393216374#0#0#0#0#0"0(4@37""_CFNumberGetValue", referenced from:393216374#1779#40#0(6@0"393216374#0#0#0#0#0"0(13@29"_get_int_property in hidapi.o393216374#1819#36#0(6@0"393216374#0#0#0#0#0"0(4@44""_IOHIDManagerCopyDevices", referenced from:393216374#1855#47#0(6@0"393216374#0#0#0#0#0"0(13@26"_hid_open_path in hidapi.o393216374#1902#33#0(6@0"393216374#0#0#0#0#0"0(13@26"_hid_enumerate in hidapi.o393216374#1935#33#0(6@0"393216374#0#0#0#0#0"0(4@59""_IOHIDDeviceRegisterInputReportCallback", referenced from:393216374#1968#62#0(6@0"393216374#0#0#0#0#0"0(13@26"_hid_open_path in hidapi.o393216374#2030#33#0(6@0"393216374#0#0#0#0#0"0(13@22"_hid_close in hidapi.o393216374#2063#29#0(6@0"393216374#0#0#0#0#0"0(4@53""___CFConstantStringClassReference", referenced from:393216374#2092#56#0(6@0"393216374#0#0#0#0#0"0(13@28"Cfstring=Product in hidapi.o393216374#2148#35#0(6@0"393216374#0#0#0#0#0"0(13@33"Cfstring=SerialNumber in hidapi.o393216374#2183#40#0(6@0"393216374#0#0#0#0#0"0(13@30"Cfstring=Transport in hidapi.o393216374#2223#37#0(6@0"393216374#0#0#0#0#0"0(13@29"Cfstring=VendorID in hidapi.o393216374#2260#36#0(6@0"393216374#0#0#0#0#0"0(13@30"Cfstring=ProductID in hidapi.o393216374#2296#37#0(6@0"393216374#0#0#0#0#0"0(13@39"Cfstring=MaxInputReportSize in hidapi.o393216374#2333#46#0(6@0"393216374#0#0#0#0#0"0(13@33"Cfstring=Manufacturer in hidapi.o393216374#2379#40#0(6@0"393216374#0#0#0#0#0"0(13@37"Cfstring=PrimaryUsagePage in hidapi.o393216374#2419#44#0(6@0"393216374#0#0#0#0#0"0(13@33"Cfstring=PrimaryUsage in hidapi.o393216374#2463#40#0(6@0"393216374#0#0#0#0#0"0(13@34"Cfstring=VersionNumber in hidapi.o393216374#2503#41#0(6@0"393216374#0#0#0#0#0"0(4@35""_CFSetGetValues", referenced from:393216374#2544#38#0(6@0"393216374#0#0#0#0#0"0(13@26"_hid_open_path in hidapi.o393216374#2582#33#0(6@0"393216374#0#0#0#0#0"0(13@26"_hid_enumerate in hidapi.o393216374#2615#33#0(6@0"393216374#0#0#0#0#0"0(4@39""_IOHIDManagerCreate", referenced from:393216374#2648#42#0(6@0"393216374#0#0#0#0#0"0(13@21"_hid_init in hidapi.o393216374#2690#28#0(6@0"393216374#0#0#0#0#0"0(4@37""_CFStringGetBytes", referenced from:393216374#2718#40#0(6@0"393216374#0#0#0#0#0"0(13@32"_get_string_property in hidapi.o393216374#2758#39#0(6@0"393216374#0#0#0#0#0"0(13@22"_make_path in hidapi.o393216374#2797#29#0(6@0"393216374#0#0#0#0#0"0(4@34""_CFRunLoopStop", referenced from:393216374#2826#37#0(6@0"393216374#0#0#0#0#0"0(13@36"_perform_signal_callback in hidapi.o393216374#2863#43#0(6@0"393216374#0#0#0#0#0"0(13@40"_hid_device_removal_callback in hidapi.o393216374#2906#47#0(6@0"393216374#0#0#0#0#0"0(4@43""_IOHIDDeviceGetProperty", referenced from:393216374#2953#46#0(6@0"393216374#0#0#0#0#0"0(13@32"_get_string_property in hidapi.o393216374#2999#39#0(6@0"393216374#0#0#0#0#0"0(13@29"_get_int_property in hidapi.o393216374#3038#36#0(6@0"393216374#0#0#0#0#0"0(13@22"_make_path in hidapi.o393216374#3074#29#0(6@0"393216374#0#0#0#0#0"0(4@52""_IOHIDManagerScheduleWithRunLoop", referenced from:393216374#3103#55#0(6@0"393216374#0#0#0#0#0"0(13@21"_hid_init in hidapi.o393216374#3158#28#0(6@0"393216374#0#0#0#0#0"0(4@51""_IOHIDDeviceScheduleWithRunLoop", referenced from:393216374#3186#54#0(6@0"393216374#0#0#0#0#0"0(13@24"_read_thread in hidapi.o393216374#3240#31#0(6@0"393216374#0#0#0#0#0"0(13@22"_hid_close in hidapi.o393216374#3271#29#0(6@0"393216374#0#0#0#0#0"0(4@38""_IOHIDManagerClose", referenced from:393216374#3300#41#0(6@0"393216374#0#0#0#0#0"0(13@21"_hid_exit in hidapi.o393216374#3341#28#0(6@0"393216374#0#0#0#0#0"0(4@36""_CFRunLoopWakeUp", referenced from:393216374#3369#39#0(6@0"393216374#0#0#0#0#0"0(13@22"_hid_close in hidapi.o393216374#3408#29#0(6@0"393216374#0#0#0#0#0"0(4@37""_IOHIDManagerOpen", referenced from:393216374#3437#40#0(6@0"393216374#0#0#0#0#0"0(13@21"_hid_init in hidapi.o393216374#3477#28#0(6@0"393216374#0#0#0#0#0"0(4@38""_CFNumberGetTypeID", referenced from:393216374#3505#41#0(6@0"393216374#0#0#0#0#0"0(13@29"_get_int_property in hidapi.o393216374#3546#36#0(6@0"393216374#0#0#0#0#0"0(4@39""_CFRunLoopAddSource", referenced from:393216374#3582#42#0(6@0"393216374#0#0#0#0#0"0(13@24"_read_thread in hidapi.o393216374#3624#31#0(6@0"393216374#0#0#0#0#0"0(4@39""_CFRunLoopRunInMode", referenced from:393216374#3655#42#0(6@0"393216374#0#0#0#0#0"0(13@24"_read_thread in hidapi.o393216374#3697#31#0(6@0"393216374#0#0#0#0#0"0(4@41""_IOHIDDeviceSetReport", referenced from:393216374#3728#44#0(6@0"393216374#0#0#0#0#0"0(13@36"_hid_send_feature_report in hidapi.o393216374#3772#43#0(6@0"393216374#0#0#0#0#0"0(13@22"_hid_write in hidapi.o393216374#3815#29#0(6@0"393216374#0#0#0#0#0"0(4@42""_CFRunLoopSourceSignal", referenced from:393216374#3844#45#0(6@0"393216374#0#0#0#0#0"0(13@22"_hid_close in hidapi.o393216374#3889#29#0(6@0"393216374#0#0#0#0#0"0(13@19"Symbol(s) not found393216374#3918#24#0(6@0"393216374#0#0#0#0#0"0(13@35"Collect2: ld returned 1 exit status393216374#3942#36#0(6@0"393216374#0#0#0#0#0"0(0#0#0"4317974528#741"    cd /Users/mike/Desktop/Proyectos/Xcode/HidApi    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Volumes/SnowLeopardHDD/Developer/usr/bin/gcc-4.2 -arch x86_64 -dynamiclib -isysroot /Volumes/SnowLeopardHDD/Developer/SDKs/MacOSX10.6.sdk -L/Users/mike/Desktop/Proyectos/Xcode/HidApi/build/Release -F/Users/mike/Desktop/Proyectos/Xcode/HidApi/build/Release -filelist /Users/mike/Desktop/Proyectos/Xcode/HidApi/build/HidApi.build/Release/HidApi.build/Objects-normal/x86_64/HidApi.LinkFileList -install_name /usr/local/lib/libHidApi.dylib -mmacosx-version-min=10.6 -single_module -compatibility_version 1 -current_version 1 -o /Users/mike/Desktop/Proyectos/Xcode/HidApi/build/HidApi.build/Release/HidApi.build/Objects-normal/x86_64/libHidApi.dylib1#
+

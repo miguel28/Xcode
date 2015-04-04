@@ -1,0 +1,194 @@
+THidApi
+v7
+r0
+t393216467.573585
+cCheck dependencies
+cCompileC build/HidApi.build/Release/HidApi.build/Objects-normal/x86_64/hidapi.o /Users/mike/Desktop/Proyectos/Xcode/HidApi/hidapi.c normal x86_64 c com.apple.compilers.gcc.4_2
+cLd /Users/mike/Desktop/Proyectos/Xcode/HidApi/build/HidApi.build/Release/HidApi.build/Objects-normal/x86_64/libHidApi.dylib normal x86_64
+cCompileC build/HidApi.build/Release/HidApi.build/Objects-normal/i386/hidapi.o /Users/mike/Desktop/Proyectos/Xcode/HidApi/hidapi.c normal i386 c com.apple.compilers.gcc.4_2
+cLd /Users/mike/Desktop/Proyectos/Xcode/HidApi/build/HidApi.build/Release/HidApi.build/Objects-normal/i386/libHidApi.dylib normal i386
+cCreateUniversalBinary /Users/mike/Desktop/Proyectos/Xcode/HidApi/build/Release/libHidApi.dylib normal "x86_64 i386"
+cGenerateDSYMFile /Users/mike/Desktop/Proyectos/Xcode/HidApi/build/Release/libHidApi.dylib.dSYM /Users/mike/Desktop/Proyectos/Xcode/HidApi/build/Release/libHidApi.dylib
+
+N/Users/mike/Desktop/Proyectos/Xcode/HidApi/build/HidApi.build/Release/HidApi.build/Objects-normal/i386/HidApi.LinkFileList
+c0000000051BFC9F30000000000000070
+t1371523571
+s112
+
+N/Users/mike/Desktop/Proyectos/Xcode/HidApi/build/HidApi.build/Release/HidApi.build/Objects-normal/i386/hidapi.o
+t1371523573
+s34752
+
+N/Users/mike/Desktop/Proyectos/Xcode/HidApi/build/HidApi.build/Release/HidApi.build/Objects-normal/i386/libHidApi.dylib
+t1371523667
+s20300
+
+N/Users/mike/Desktop/Proyectos/Xcode/HidApi/build/HidApi.build/Release/HidApi.build/Objects-normal/x86_64/HidApi.LinkFileList
+c0000000051BFC9F40000000000000072
+t1371523572
+s114
+
+N/Users/mike/Desktop/Proyectos/Xcode/HidApi/build/HidApi.build/Release/HidApi.build/Objects-normal/x86_64/hidapi.o
+t1371523573
+s43728
+
+N/Users/mike/Desktop/Proyectos/Xcode/HidApi/build/HidApi.build/Release/HidApi.build/Objects-normal/x86_64/libHidApi.dylib
+t1371523667
+s25320
+
+N/Users/mike/Desktop/Proyectos/Xcode/HidApi/build/Release/libHidApi.dylib
+t1371523667
+s53068
+
+N/Users/mike/Desktop/Proyectos/Xcode/HidApi/build/Release/libHidApi.dylib.dSYM
+t1371523667
+s102
+
+N/Users/mike/Desktop/Proyectos/Xcode/HidApi/hidapi.c
+c000000004EA777480000000000007020
+t1319597896
+s28704
+i<IOKit/hid/IOHIDManager.h>
+i<IOKit/hid/IOHIDKeys.h>
+i<CoreFoundation/CoreFoundation.h>
+i<wchar.h>
+i<locale.h>
+i<pthread.h>
+i<sys/time.h>
+i<unistd.h>
+i"hidapi.h"
+
+N/Users/mike/Desktop/Proyectos/Xcode/HidApi/hidapi.h
+c000000004EA7774800000000000033FD
+t1319597896
+s13309
+i<wchar.h>
+
+N/Volumes/SnowLeopardHDD/Developer/SDKs/MacOSX10.6.sdk
+c000000004D5A274300000000000000EE
+t1297753923
+s238
+
+N/Volumes/SnowLeopardHDD/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+c000000004D5A279000000000000830F8
+t1297754000
+s536824
+
+N/Volumes/SnowLeopardHDD/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CoreFoundation.h
+c000000004CC3E8CB0000000000000AF4
+t1287907531
+s2804
+
+N/Volumes/SnowLeopardHDD/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/IOKit.framework/Headers/hid/IOHIDKeys.h
+c000000004CC3EAB8000000000000394F
+t1287908024
+s14671
+
+N/Volumes/SnowLeopardHDD/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/IOKit.framework/Headers/hid/IOHIDManager.h
+c000000004CC3E9840000000000003E8C
+t1287907716
+s16012
+
+N/Volumes/SnowLeopardHDD/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/IOKit.framework/IOKit
+c000000004D5A2790000000000003CE34
+t1297754000
+s249396
+
+N/Volumes/SnowLeopardHDD/Developer/SDKs/MacOSX10.6.sdk/usr/include/locale.h
+c000000004BBD2CE900000000000008F0
+t1270689001
+s2288
+
+N/Volumes/SnowLeopardHDD/Developer/SDKs/MacOSX10.6.sdk/usr/include/pthread.h
+c000000004BBD2CE900000000000038F0
+t1270689001
+s14576
+
+N/Volumes/SnowLeopardHDD/Developer/SDKs/MacOSX10.6.sdk/usr/include/sys/time.h
+c000000004CC3DE680000000000001E17
+t1287904872
+s7703
+
+N/Volumes/SnowLeopardHDD/Developer/SDKs/MacOSX10.6.sdk/usr/include/unistd.h
+c000000004BBD2CE9000000000000563E
+t1270689001
+s22078
+
+N/Volumes/SnowLeopardHDD/Developer/SDKs/MacOSX10.6.sdk/usr/include/wchar.h
+c000000004BBD2CE900000000000025DA
+t1270689001
+s9690
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies393216467#393216467#0(0"0(0#1#0"17240301056#0"0#
+
+CCompileC build/HidApi.build/Release/HidApi.build/Objects-normal/i386/hidapi.o /Users/mike/Desktop/Proyectos/Xcode/HidApi/hidapi.c normal i386 c com.apple.compilers.gcc.4_2
+s393216372.270642
+e393216373.735282
+r1
+xCompileC
+xbuild/HidApi.build/Release/HidApi.build/Objects-normal/i386/hidapi.o
+x/Users/mike/Desktop/Proyectos/Xcode/HidApi/hidapi.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@59"Compile /Users/mike/Desktop/Proyectos/Xcode/HidApi/hidapi.c393216372#393216373#0(0"0(0#0#51"/Users/mike/Desktop/Proyectos/Xcode/HidApi/hidapi.c4317974528#1339"    cd /Users/mike/Desktop/Proyectos/Xcode/HidApi    setenv LANG en_US.US-ASCII    /Volumes/SnowLeopardHDD/Developer/usr/bin/gcc-4.2 -x c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -Wreturn-type -Wunused-variable -isysroot /Volumes/SnowLeopardHDD/Developer/SDKs/MacOSX10.6.sdk -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/mike/Desktop/Proyectos/Xcode/HidApi/build/HidApi.build/Release/HidApi.build/HidApi-generated-files.hmap -I/Users/mike/Desktop/Proyectos/Xcode/HidApi/build/HidApi.build/Release/HidApi.build/HidApi-own-target-headers.hmap -I/Users/mike/Desktop/Proyectos/Xcode/HidApi/build/HidApi.build/Release/HidApi.build/HidApi-all-target-headers.hmap -iquote /Users/mike/Desktop/Proyectos/Xcode/HidApi/build/HidApi.build/Release/HidApi.build/HidApi-project-headers.hmap -F/Users/mike/Desktop/Proyectos/Xcode/HidApi/build/Release -I/Users/mike/Desktop/Proyectos/Xcode/HidApi/build/Release/include -I/Users/mike/Desktop/Proyectos/Xcode/HidApi/build/HidApi.build/Release/HidApi.build/DerivedSources/i386 -I/Users/mike/Desktop/Proyectos/Xcode/HidApi/build/HidApi.build/Release/HidApi.build/DerivedSources -c /Users/mike/Desktop/Proyectos/Xcode/HidApi/hidapi.c -o /Users/mike/Desktop/Proyectos/Xcode/HidApi/build/HidApi.build/Release/HidApi.build/Objects-normal/i386/hidapi.o0#
+
+CCompileC build/HidApi.build/Release/HidApi.build/Objects-normal/x86_64/hidapi.o /Users/mike/Desktop/Proyectos/Xcode/HidApi/hidapi.c normal x86_64 c com.apple.compilers.gcc.4_2
+s393216372.246624
+e393216373.736374
+r1
+xCompileC
+xbuild/HidApi.build/Release/HidApi.build/Objects-normal/x86_64/hidapi.o
+x/Users/mike/Desktop/Proyectos/Xcode/HidApi/hidapi.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@59"Compile /Users/mike/Desktop/Proyectos/Xcode/HidApi/hidapi.c393216372#393216373#0(0"0(0#0#51"/Users/mike/Desktop/Proyectos/Xcode/HidApi/hidapi.c17187326464#1345"    cd /Users/mike/Desktop/Proyectos/Xcode/HidApi    setenv LANG en_US.US-ASCII    /Volumes/SnowLeopardHDD/Developer/usr/bin/gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -Wreturn-type -Wunused-variable -isysroot /Volumes/SnowLeopardHDD/Developer/SDKs/MacOSX10.6.sdk -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/mike/Desktop/Proyectos/Xcode/HidApi/build/HidApi.build/Release/HidApi.build/HidApi-generated-files.hmap -I/Users/mike/Desktop/Proyectos/Xcode/HidApi/build/HidApi.build/Release/HidApi.build/HidApi-own-target-headers.hmap -I/Users/mike/Desktop/Proyectos/Xcode/HidApi/build/HidApi.build/Release/HidApi.build/HidApi-all-target-headers.hmap -iquote /Users/mike/Desktop/Proyectos/Xcode/HidApi/build/HidApi.build/Release/HidApi.build/HidApi-project-headers.hmap -F/Users/mike/Desktop/Proyectos/Xcode/HidApi/build/Release -I/Users/mike/Desktop/Proyectos/Xcode/HidApi/build/Release/include -I/Users/mike/Desktop/Proyectos/Xcode/HidApi/build/HidApi.build/Release/HidApi.build/DerivedSources/x86_64 -I/Users/mike/Desktop/Proyectos/Xcode/HidApi/build/HidApi.build/Release/HidApi.build/DerivedSources -c /Users/mike/Desktop/Proyectos/Xcode/HidApi/hidapi.c -o /Users/mike/Desktop/Proyectos/Xcode/HidApi/build/HidApi.build/Release/HidApi.build/Objects-normal/x86_64/hidapi.o0#
+
+CCreateUniversalBinary /Users/mike/Desktop/Proyectos/Xcode/HidApi/build/Release/libHidApi.dylib normal "x86_64 i386"
+s393216467.381914
+e393216467.455146
+r1
+xCreateUniversalBinary
+x/Users/mike/Desktop/Proyectos/Xcode/HidApi/build/Release/libHidApi.dylib
+xnormal
+xx86_64 i386
+lSLF07#2@72"CreateUniversalBinary build/Release/libHidApi.dylib normal "x86_64 i386"393216467#393216467#0(0"0(0#0#54"/Users/mike/Desktop/Proyectos/Xcode/HidApi/x86_64 i3864317974528#397"    cd /Users/mike/Desktop/Proyectos/Xcode/HidApi    /usr/bin/lipo -create /Users/mike/Desktop/Proyectos/Xcode/HidApi/build/HidApi.build/Release/HidApi.build/Objects-normal/x86_64/libHidApi.dylib /Users/mike/Desktop/Proyectos/Xcode/HidApi/build/HidApi.build/Release/HidApi.build/Objects-normal/i386/libHidApi.dylib -output /Users/mike/Desktop/Proyectos/Xcode/HidApi/build/Release/libHidApi.dylib0#
+
+CGenerateDSYMFile /Users/mike/Desktop/Proyectos/Xcode/HidApi/build/Release/libHidApi.dylib.dSYM /Users/mike/Desktop/Proyectos/Xcode/HidApi/build/Release/libHidApi.dylib
+s393216467.455232
+e393216467.571095
+r1
+xGenerateDSYMFile
+x/Users/mike/Desktop/Proyectos/Xcode/HidApi/build/Release/libHidApi.dylib.dSYM
+x/Users/mike/Desktop/Proyectos/Xcode/HidApi/build/Release/libHidApi.dylib
+lSLF07#2@81"GenerateDSYMFile build/Release/libHidApi.dylib.dSYM build/Release/libHidApi.dylib393216467#393216467#0(0"0(0#0#72"/Users/mike/Desktop/Proyectos/Xcode/HidApi/build/Release/libHidApi.dylib4317974528#259"    cd /Users/mike/Desktop/Proyectos/Xcode/HidApi    /Volumes/SnowLeopardHDD/Developer/usr/bin/dsymutil /Users/mike/Desktop/Proyectos/Xcode/HidApi/build/Release/libHidApi.dylib -o /Users/mike/Desktop/Proyectos/Xcode/HidApi/build/Release/libHidApi.dylib.dSYM0#
+
+CLd /Users/mike/Desktop/Proyectos/Xcode/HidApi/build/HidApi.build/Release/HidApi.build/Objects-normal/i386/libHidApi.dylib normal i386
+s393216467.121962
+e393216467.338624
+r1
+xLd
+x/Users/mike/Desktop/Proyectos/Xcode/HidApi/build/HidApi.build/Release/HidApi.build/Objects-normal/i386/libHidApi.dylib
+xnormal
+xi386
+old: warning: directory '/Users/mike/Desktop/Proyectos/Xcode/HidApi/build/Release' following -L not found
+old: warning: directory '/Users/mike/Desktop/Proyectos/Xcode/HidApi/build/Release' following -F not found
+lSLF07#2@123"Link /Users/mike/Desktop/Proyectos/Xcode/HidApi/build/HidApi.build/Release/HidApi.build/Objects-normal/i386/libHidApi.dylib393216467#393216467#0(210"ld: warning: directory '/Users/mike/Desktop/Proyectos/Xcode/HidApi/build/Release' following -L not foundld: warning: directory '/Users/mike/Desktop/Proyectos/Xcode/HidApi/build/Release' following -F not found2(22@91"Directory '/Users/mike/Desktop/Proyectos/Xcode/HidApi/build/Release' following -L not found393216467#0#105#0(6@0"393216467#0#0#0#0#0"0(22@91"Directory '/Users/mike/Desktop/Proyectos/Xcode/HidApi/build/Release' following -F not found393216467#105#105#0(6@0"393216467#0#0#0#0#0"0(0#0#0"4317974528#778"    cd /Users/mike/Desktop/Proyectos/Xcode/HidApi    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Volumes/SnowLeopardHDD/Developer/usr/bin/gcc-4.2 -arch i386 -dynamiclib -isysroot /Volumes/SnowLeopardHDD/Developer/SDKs/MacOSX10.6.sdk -L/Users/mike/Desktop/Proyectos/Xcode/HidApi/build/Release -F/Users/mike/Desktop/Proyectos/Xcode/HidApi/build/Release -filelist /Users/mike/Desktop/Proyectos/Xcode/HidApi/build/HidApi.build/Release/HidApi.build/Objects-normal/i386/HidApi.LinkFileList -install_name /usr/local/lib/libHidApi.dylib -mmacosx-version-min=10.6 -framework CoreFoundation -framework IOKit -single_module -compatibility_version 1 -current_version 1 -o /Users/mike/Desktop/Proyectos/Xcode/HidApi/build/HidApi.build/Release/HidApi.build/Objects-normal/i386/libHidApi.dylib0#
+
+CLd /Users/mike/Desktop/Proyectos/Xcode/HidApi/build/HidApi.build/Release/HidApi.build/Objects-normal/x86_64/libHidApi.dylib normal x86_64
+s393216467.113777
+e393216467.381833
+r1
+xLd
+x/Users/mike/Desktop/Proyectos/Xcode/HidApi/build/HidApi.build/Release/HidApi.build/Objects-normal/x86_64/libHidApi.dylib
+xnormal
+xx86_64
+old: warning: directory '/Users/mike/Desktop/Proyectos/Xcode/HidApi/build/Release' following -L not found
+old: warning: directory '/Users/mike/Desktop/Proyectos/Xcode/HidApi/build/Release' following -F not found
+lSLF07#2@125"Link /Users/mike/Desktop/Proyectos/Xcode/HidApi/build/HidApi.build/Release/HidApi.build/Objects-normal/x86_64/libHidApi.dylib393216467#393216467#0(210"ld: warning: directory '/Users/mike/Desktop/Proyectos/Xcode/HidApi/build/Release' following -L not foundld: warning: directory '/Users/mike/Desktop/Proyectos/Xcode/HidApi/build/Release' following -F not found2(22@91"Directory '/Users/mike/Desktop/Proyectos/Xcode/HidApi/build/Release' following -L not found393216467#0#105#0(6@0"393216467#0#0#0#0#0"0(22@91"Directory '/Users/mike/Desktop/Proyectos/Xcode/HidApi/build/Release' following -F not found393216467#105#105#0(6@0"393216467#0#0#0#0#0"0(0#0#0"4317974528#784"    cd /Users/mike/Desktop/Proyectos/Xcode/HidApi    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Volumes/SnowLeopardHDD/Developer/usr/bin/gcc-4.2 -arch x86_64 -dynamiclib -isysroot /Volumes/SnowLeopardHDD/Developer/SDKs/MacOSX10.6.sdk -L/Users/mike/Desktop/Proyectos/Xcode/HidApi/build/Release -F/Users/mike/Desktop/Proyectos/Xcode/HidApi/build/Release -filelist /Users/mike/Desktop/Proyectos/Xcode/HidApi/build/HidApi.build/Release/HidApi.build/Objects-normal/x86_64/HidApi.LinkFileList -install_name /usr/local/lib/libHidApi.dylib -mmacosx-version-min=10.6 -framework CoreFoundation -framework IOKit -single_module -compatibility_version 1 -current_version 1 -o /Users/mike/Desktop/Proyectos/Xcode/HidApi/build/HidApi.build/Release/HidApi.build/Objects-normal/x86_64/libHidApi.dylib0#
+

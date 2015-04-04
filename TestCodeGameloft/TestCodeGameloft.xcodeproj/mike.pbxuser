@@ -1,0 +1,119 @@
+// !$*UTF8*$!
+{
+	08FB7793FE84155DC02AAC07 /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 27A1E8BF17A8AEA00015CCA5 /* TestCodeGameloft */;
+		activeTarget = 8DD76F620486A84900D96B5E /* TestCodeGameloft */;
+		codeSenseManager = 27A1E8CD17A8AEA50015CCA5 /* Code sense */;
+		executables = (
+			27A1E8BF17A8AEA00015CCA5 /* TestCodeGameloft */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					341,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 396930720;
+			PBXWorkspaceStateSaveDate = 396930720;
+		};
+		perUserProjectItems = {
+			27A1E8C317A8AEA30015CCA5 /* PBXBookmark */ = 27A1E8C317A8AEA30015CCA5 /* PBXBookmark */;
+			27A1E94717A8CD590015CCA5 /* PBXTextBookmark */ = 27A1E94717A8CD590015CCA5 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 27A1E8CC17A8AEA50015CCA5 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	08FB7796FE84155DC02AAC07 /* main.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {691, 325}}";
+			sepNavSelRange = "{284, 0}";
+			sepNavVisRange = "{0, 286}";
+			sepNavWindowFrame = "{{1148, 58}, {750, 501}}";
+		};
+	};
+	27A1E8BF17A8AEA00015CCA5 /* TestCodeGameloft */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = TestCodeGameloft;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	27A1E8C317A8AEA30015CCA5 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 08FB7796FE84155DC02AAC07 /* main.cpp */;
+	};
+	27A1E8CC17A8AEA50015CCA5 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	27A1E8CD17A8AEA50015CCA5 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	27A1E94717A8CD590015CCA5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 08FB7796FE84155DC02AAC07 /* main.cpp */;
+		name = "main.cpp: 20";
+		rLen = 0;
+		rLoc = 284;
+		rType = 0;
+		vrLen = 286;
+		vrLoc = 0;
+	};
+	8DD76F620486A84900D96B5E /* TestCodeGameloft */ = {
+		activeExec = 0;
+		executables = (
+			27A1E8BF17A8AEA00015CCA5 /* TestCodeGameloft */,
+		);
+	};
+}

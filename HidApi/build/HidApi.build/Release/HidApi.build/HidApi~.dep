@@ -1,0 +1,6 @@
+9fe3996de21723fdc4a1f7d999d5130d 7ee7969aa30623990e687fbb847c800e ffffffffffffffffffffffffffffffff 0 /Users/mike/Desktop/Proyectos/Xcode/HidApi/build/HidApi.build/Release/HidApi.build/Objects-normal/i386/libHidApi.dylib
+000000004bbd197600000000000036c3 9fe3996de4f01dc8c4a1f7d999d52520 ffffffffffffffffffffffffffffffff 34752 /Users/mike/Desktop/Proyectos/Xcode/HidApi/build/HidApi.build/Release/HidApi.build/Objects-normal/i386/hidapi.o
+000000004bbd197600000000000036c3 54e3d367053d995d82a5f036f5c52df1 ffffffffffffffffffffffffffffffff 43728 /Users/mike/Desktop/Proyectos/Xcode/HidApi/build/HidApi.build/Release/HidApi.build/Objects-normal/x86_64/hidapi.o
+54e3d36703daa76882a5f036f5c51bdc f4c72fa8babdf511b3188c42c9e566d0 ffffffffffffffffffffffffffffffff 0 /Users/mike/Desktop/Proyectos/Xcode/HidApi/build/HidApi.build/Release/HidApi.build/Objects-normal/x86_64/libHidApi.dylib
+ffffffffffffffffffffffffffffffff ffffffffffffffffffffffffffffffff ffffffffffffffffffffffffffffffff 0 /Users/mike/Desktop/Proyectos/Xcode/HidApi/build/Release/libHidApi.dylib.dSYM
+ffffffffffffffffffffffffffffffff ffffffffffffffffffffffffffffffff ffffffffffffffffffffffffffffffff 0 /Users/mike/Desktop/Proyectos/Xcode/HidApi/build/Release/libHidApi.dylib

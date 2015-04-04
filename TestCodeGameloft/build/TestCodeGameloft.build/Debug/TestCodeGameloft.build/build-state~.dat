@@ -1,0 +1,51 @@
+TTestCodeGameloft
+v7
+r0
+t396930773.843261
+cCheck dependencies
+cCompileC build/TestCodeGameloft.build/Debug/TestCodeGameloft.build/Objects-normal/x86_64/main.o /Users/mike/Desktop/Proyectos/Xcode/TestCodeGameloft/main.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+
+N/Users/mike/Desktop/Proyectos/Xcode/TestCodeGameloft/build/Debug/TestCodeGameloft
+t2
+s0
+
+N/Users/mike/Desktop/Proyectos/Xcode/TestCodeGameloft/build/TestCodeGameloft.build/Debug/TestCodeGameloft.build/Objects-normal/x86_64/TestCodeGameloft.LinkFileList
+c0000000051F87755000000000000008C
+t1375237973
+s140
+
+N/Users/mike/Desktop/Proyectos/Xcode/TestCodeGameloft/build/TestCodeGameloft.build/Debug/TestCodeGameloft.build/Objects-normal/x86_64/main.o
+t2
+s0
+
+N/Users/mike/Desktop/Proyectos/Xcode/TestCodeGameloft/main.cpp
+c0000000051F8775500000000000000F2
+t1375237973
+s242
+i<iostream>
+
+N/Volumes/Snow Leopard HDD/Developer/SDKs/MacOSX10.6.sdk
+c000000004D5A274300000000000000EE
+t1297753923
+s238
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies396930773#396930773#0(0"0(0#1#0"17213554944#0"0#
+
+CCompileC build/TestCodeGameloft.build/Debug/TestCodeGameloft.build/Objects-normal/x86_64/main.o /Users/mike/Desktop/Proyectos/Xcode/TestCodeGameloft/main.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+s396930773.509547
+e396930773.843201
+r0
+xCompileC
+xbuild/TestCodeGameloft.build/Debug/TestCodeGameloft.build/Objects-normal/x86_64/main.o
+x/Users/mike/Desktop/Proyectos/Xcode/TestCodeGameloft/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@69"Compile /Users/mike/Desktop/Proyectos/Xcode/TestCodeGameloft/main.cpp396930773#396930773#0(100"/Users/mike/Desktop/Proyectos/Xcode/TestCodeGameloft/main.cpp:10: error: '::main' must return 'int'1(4@26"'::main' must return 'int'396930773#0#100#0(6@61"/Users/mike/Desktop/Proyectos/Xcode/TestCodeGameloft/main.cpp396930773#10#0#10#0#0"0(0#0#61"/Users/mike/Desktop/Proyectos/Xcode/TestCodeGameloft/main.cpp17213305600#1661"    cd /Users/mike/Desktop/Proyectos/Xcode/TestCodeGameloft    setenv LANG en_US.US-ASCII    "/Volumes/Snow Leopard HDD/Developer/usr/bin/gcc-4.2" -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot "/Volumes/Snow Leopard HDD/Developer/SDKs/MacOSX10.6.sdk" -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/mike/Desktop/Proyectos/Xcode/TestCodeGameloft/build/TestCodeGameloft.build/Debug/TestCodeGameloft.build/TestCodeGameloft-generated-files.hmap -I/Users/mike/Desktop/Proyectos/Xcode/TestCodeGameloft/build/TestCodeGameloft.build/Debug/TestCodeGameloft.build/TestCodeGameloft-own-target-headers.hmap -I/Users/mike/Desktop/Proyectos/Xcode/TestCodeGameloft/build/TestCodeGameloft.build/Debug/TestCodeGameloft.build/TestCodeGameloft-all-target-headers.hmap -iquote /Users/mike/Desktop/Proyectos/Xcode/TestCodeGameloft/build/TestCodeGameloft.build/Debug/TestCodeGameloft.build/TestCodeGameloft-project-headers.hmap -F/Users/mike/Desktop/Proyectos/Xcode/TestCodeGameloft/build/Debug -I/Users/mike/Desktop/Proyectos/Xcode/TestCodeGameloft/build/Debug/include -I/Users/mike/Desktop/Proyectos/Xcode/TestCodeGameloft/build/TestCodeGameloft.build/Debug/TestCodeGameloft.build/DerivedSources/x86_64 -I/Users/mike/Desktop/Proyectos/Xcode/TestCodeGameloft/build/TestCodeGameloft.build/Debug/TestCodeGameloft.build/DerivedSources -c /Users/mike/Desktop/Proyectos/Xcode/TestCodeGameloft/main.cpp -o /Users/mike/Desktop/Proyectos/Xcode/TestCodeGameloft/build/TestCodeGameloft.build/Debug/TestCodeGameloft.build/Objects-normal/x86_64/main.o1#
+
+CLd /Users/mike/Desktop/Proyectos/Xcode/TestCodeGameloft/build/Debug/TestCodeGameloft normal x86_64
+r0
+

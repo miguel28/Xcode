@@ -1,0 +1,4 @@
+/Users/miguelsilva/Desktop/Proyectos/AppExample/AppController.m: In function '-[AppController clearText:]':
+/Users/miguelsilva/Desktop/Proyectos/AppExample/AppController.m:15: error: 'textView' undeclared (first use in this function)
+/Users/miguelsilva/Desktop/Proyectos/AppExample/AppController.m:15: error: (Each undeclared identifier is reported only once
+/Users/miguelsilva/Desktop/Proyectos/AppExample/AppController.m:15: error: for each function it appears in.)

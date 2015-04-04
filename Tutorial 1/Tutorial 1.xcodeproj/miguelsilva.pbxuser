@@ -1,0 +1,140 @@
+// !$*UTF8*$!
+{
+	1D6058900D05DD3D006BFB54 /* Tutorial 1 */ = {
+		activeExec = 0;
+		executables = (
+			2490427713EAFB7A003DA04A /* Tutorial 1 */,
+		);
+	};
+	2462E6D116A8D36500C91C5F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* Tutorial_1ViewController.h */;
+		name = "Tutorial_1ViewController.h: 22";
+		rLen = 0;
+		rLoc = 331;
+		rType = 0;
+		vrLen = 331;
+		vrLoc = 0;
+	};
+	2490427713EAFB7A003DA04A /* Tutorial 1 */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = "Tutorial 1";
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	2490428613EAFB7E003DA04A /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	2490428713EAFB7E003DA04A /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	24DCC7EB16D9289900DDD4C3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* Tutorial_1ViewController.h */;
+		name = "Tutorial_1ViewController.h: 22";
+		rLen = 0;
+		rLoc = 331;
+		rType = 0;
+		vrLen = 331;
+		vrLoc = 0;
+	};
+	24FFC3DA13EB45BF00B40988 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* Tutorial_1ViewController.m */;
+		name = "Tutorial_1ViewController.m: 14";
+		rLen = 0;
+		rLoc = 268;
+		rType = 0;
+		vrLen = 997;
+		vrLoc = 0;
+	};
+	28D7ACF60DDB3853001CB0EB /* Tutorial_1ViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {566, 607}}";
+			sepNavSelRange = "{331, 0}";
+			sepNavVisRange = "{0, 331}";
+			sepNavWindowFrame = "{{1037, 143}, {722, 494}}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* Tutorial_1ViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {712, 1001}}";
+			sepNavSelRange = "{268, 0}";
+			sepNavVisRange = "{0, 997}";
+			sepNavWindowFrame = "{{1198, 95}, {722, 494}}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 2490427713EAFB7A003DA04A /* Tutorial 1 */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* Tutorial 1 */;
+		codeSenseManager = 2490428713EAFB7E003DA04A /* Code sense */;
+		executables = (
+			2490427713EAFB7A003DA04A /* Tutorial 1 */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					388,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 383330450;
+			PBXWorkspaceStateSaveDate = 383330450;
+		};
+		perUserProjectItems = {
+			2462E6D116A8D36500C91C5F /* PBXTextBookmark */ = 2462E6D116A8D36500C91C5F /* PBXTextBookmark */;
+			24DCC7EB16D9289900DDD4C3 /* PBXTextBookmark */ = 24DCC7EB16D9289900DDD4C3 /* PBXTextBookmark */;
+			24FFC3DA13EB45BF00B40988 /* PBXTextBookmark */ = 24FFC3DA13EB45BF00B40988 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 2490428613EAFB7E003DA04A /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+}
